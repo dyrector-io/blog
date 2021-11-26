@@ -1,22 +1,26 @@
-import * as React from "react"
-import { graphql } from "gatsby"
+import React from "react";
+import { graphql } from "gatsby";
+import Navbar from "../components/navbar/navbar";
+import ResetCss from "../components/reset-css";
+import SEO from "../components/seo";
+import NotFound from "../containers/not-found";
+import Footer from "../components/footer/footer";
 
-import Layout from "../components/layout"
-import Seo from "../components/seo"
-
-const NotFoundPage = ({ data, location }) => {
-  const siteTitle = data.site.siteMetadata.title
-
+const NotFoundPage = (props: any) => {
   return (
-    <Layout location={location} title={siteTitle}>
-      <Seo title="404: Not Found" />
-      <h1>404: Not Found</h1>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-    </Layout>
-  )
-}
+    <>
+      <ResetCss />
+      <Navbar />
+      <SEO title="404: Not Found" />
+      <NotFound />
+      <Footer>
+        <a href="https://dyrector.io"> Made with ❤️ by dyrector.io team</a>
+      </Footer>
+    </>
+  );
+};
 
-export default NotFoundPage
+export default NotFoundPage;
 
 export const pageQuery = graphql`
   query {
@@ -26,4 +30,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;
