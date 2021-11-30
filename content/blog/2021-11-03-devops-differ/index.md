@@ -2,14 +2,14 @@
 title: 3 Key Differences Between DevOps and traditional IT operations
 description: Adopting DevOps is a bold journey. There are many dangers and pitfalls on the road ahead but one thing's for sure – it pays off big time. Find out what to expect from DevOps compared to the traditional IT approach in this blogpost.
 date: "2021-11-30"
-header: "./header.jpeg"
 tags: ["DevOps", "traditional IT"]
 cover: "./preview.jpeg"
+header: "./header.jpeg"
 ---
 
 **In this article you won’t read about how teams utilizing DevOps methodology work 41% more efficiently than traditional IT departments. We at dyrector.io know that adopting the set of practices that make up DevOps is difficult but when done with the right personnel and set of tools, it’s the way towards more efficient work, faster value delivery and more stable products. The goal of this article is to explain and address the impact on your team’s operation both on an everyday and a broader scale.**
 
-***
+---
 
 Although it's been around us since the 90s, it was only over the last couple of years when DevOps has been adopted by some of the largest companies in the globe. Despite this movement, some organizations and decision makers are still unaware of the advantages their companies can gain by going the DevOps way.
 
@@ -25,7 +25,7 @@ This specific nature of traditional IT leads to knowledge black holes, which Dev
 
 In this section, we summed up the fundamental differences between the traditional IT and DevOps approach. Let’s jump into the 3 key differences organizations can experience after adopting DevOps!
 
-### Difference #1: DevOps cherishes failures 
+### Difference #1: DevOps cherishes failures
 
 You know the feeling when you order something online and can’t wait to unpack your stuff after delivery. The same goes for DevOps. After developing a new feature, it’s time to test right away. This not only helps the discovery of problems with the software but also supports quality assurance efforts, which indirectly lays groundwork for customer satisfaction.
 
@@ -33,7 +33,7 @@ The continuous stream of feedbacks can validate that the developed software func
 
 This approach is a key enabler of small but frequent updates getting released to the users. This is a fundamental difference from traditional IT that prefers large and occasional updates. To keep operational challenges caused by the higher volume of deployments manageable DevOps utilizes continuous integration and continuous deployment pipelines.
 
-### Difference #2: DevOps turns limitations meaningless on the cloud 
+### Difference #2: DevOps turns limitations meaningless on the cloud
 
 Sometimes organizations with the traditional approach face troubles caused by local limitations. These are usually infrastructural bottlenecks that are costly to resolve due to either the lack of local access or technical reasons. Costs and waiting times could increase by sticking to the traditional IT solutions, compared to taking advantage of the cloud.
 
@@ -57,7 +57,7 @@ Due to this reason, scalability doesn’t come with downtimes. As mentioned befo
 
 DevOps is much more than just a technical approach. It’s a complex set of practices that’s unable to adopt without a cultural shift within the organization. Collaboration is the key principle to embrace DevOps, in order to deliver value to your customers faster, operate your product more efficiently and provide better scalability depending on the client’s needs.
 
-*This blogpost was written by the team of [dyrector.io](https://dyrector.io). dyrector.io is a release management platform supporting your DevOps efforts by reducing the time and effort required to deploy your product. Check our plans to simplify your deployments to be able to focus on the things that matter to your team.*
+_This blogpost was written by the team of [dyrector.io](https://dyrector.io). dyrector.io is a release management platform supporting your DevOps efforts by reducing the time and effort required to deploy your product. Check our plans to simplify your deployments to be able to focus on the things that matter to your team._
 
 To stay updated about our product follow us on [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
 
