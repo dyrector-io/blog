@@ -66,3 +66,7 @@ As mentioned earlier, there are a lot of people at Web Summit. At the 2021 event
 It’s fair to say that we gained a lot of experience during our first Web Summit. We thought it’d be helpful to share our experiences so you can make the most out of the event. Attending the conference is 100% worth it because you can show the world your vision and it matters how you choose to do it. We hope this blog post is helpful for your preparation to Web Summit 2022.
 
 *This blog post was written by the crew at [dyrector.io](https://dyrector.io). dyrector.io is a release management platform that enables fast deployment and monitoring for non-technical personnel to save time and energy of developers.*
+
+To stay updated about our product follow us on [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
+
+Join our public [Discord](https://discord.gg/hMyT9cbYFD) server to discuss DevOps.

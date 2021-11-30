@@ -58,3 +58,7 @@ Due to this reason, scalability doesn’t come with downtimes. As mentioned befo
 DevOps is much more than just a technical approach. It’s a complex set of practices that’s unable to adopt without a cultural shift within the organization. Collaboration is the key principle to embrace DevOps, in order to deliver value to your customers faster, operate your product more efficiently and provide better scalability depending on the client’s needs.
 
 *This blogpost was written by the team of [dyrector.io](https://dyrector.io). dyrector.io is a release management platform supporting your DevOps efforts by reducing the time and effort required to deploy your product. Check our plans to simplify your deployments to be able to focus on the things that matter to your team.*
+
+To stay updated about our product follow us on [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
+
+Join our public [Discord](https://discord.gg/hMyT9cbYFD) server to discuss DevOps.
