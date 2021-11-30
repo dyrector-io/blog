@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `dyrector.io`,
     author: `dyrector.io`,
-    about: `Make release management easier. Using dyrector.io #DevOps platform you can manage and deploy your software in to cloud infrastructures.`,
+    about: `Make your release management easier. Using dyrector.io #DevOps platform, you can manage and deploy your software to cloud infrastructures with ease.`,
     description: `A Gatsby Blog`,
     siteUrl: `https://dyrector.io`,
   },
