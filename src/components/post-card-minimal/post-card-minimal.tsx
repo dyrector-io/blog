@@ -16,6 +16,7 @@ import {
 
 interface PostCardMinimalProps {
   image?: any;
+  imageAlt: string;
   title: string;
   description?: string;
   url: string;
@@ -26,6 +27,7 @@ interface PostCardMinimalProps {
 
 const PostCardMinimal: React.FunctionComponent<PostCardMinimalProps> = ({
   image,
+  imageAlt,
   title,
   description,
   url,
@@ -49,7 +51,7 @@ const PostCardMinimal: React.FunctionComponent<PostCardMinimalProps> = ({
           {image == null ? null : (
             <PostPreview className="post_preview">
               <Link to={url}>
-                <GatsbyImage src={image} alt="post preview" />
+                <GatsbyImage src={image} alt={imageAlt} />
               </Link>
             </PostPreview>
           )}

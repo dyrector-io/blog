@@ -1,10 +1,14 @@
 ---
 title: What is SDLC? And how do release management platforms like dyrector.io fit into the lifecycle?
 date: "2021-11-30"
+seoTitle: seoTitle
+seoDescription: seoDescription
 description: Software development lifecycle is a hierarchic set of steps organizations can utilize to produce quality software time and cost efficiently. In this blogpost we introduce the stages of SDLC and detail how the dyrector.io release management platform can simplify the process.
-cover: "./preview.jpeg"
 tags: ["sdlc", "development"]
+cover: "./preview.jpeg"
 header: "./header.jpeg"
+coverAlt: "coverAlt"
+headerAlt: "headerAlt"
 ---
 
 **Software development lifecycle is the process that enables high quality software to be produced both cost and time efficiently. It’s a set of steps organizations involved in software development can follow to maintain quality assurance aspects to avoid pitfalls that can occur after deployment by focusing their efforts on testing during the development phase.**

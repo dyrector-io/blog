@@ -1,10 +1,14 @@
 ---
 title: We went to Web Summit for the first time – Here’s 6 major takeaways you need to know before you buy your tickets
+seoTitle: seoTitle
+seoDescription: seoDescription
 date: "2021-11-30"
 description: This year our crew attended one of the biggest tech conferences of the world, Web Summit for the first time to show investors how the dyrector.io release management platform can help software developer companies work more efficiently. In this post, we’ll summarize our experience so you can be prepared to an event you don’t want to miss out on.
 tags: ["websummit", "web", "tech", "conf"]
 cover:  "./preview.jpg"
 header: "./header.jpg"
+coverAlt: "coverAlt"
+headerAlt: "headerAlt"
 ---
 
 **Web Summit is an intense, fast paced conference where thousands of up-and-coming innovators try to introduce their vision on how the world should look like. This year, our crew attended it for the first time, and we came to many conclusions we wish we knew before the event. In this post, we’ll summarize our experience so you can be prepared to an event you don’t want to miss out on.**

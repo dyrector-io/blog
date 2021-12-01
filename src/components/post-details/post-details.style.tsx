@@ -52,6 +52,7 @@ export const PostDate = styled.span`
 export const PostHeader = styled.div`
   position: relative;
   margin: 0 auto;
+  margin-top: 12px;
   width: 80%;
   img {
     border-radius: 3px;

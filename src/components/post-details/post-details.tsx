@@ -7,7 +7,6 @@ import {
   PostTitle,
   PostDate,
   PostHeader,
-  PostHeaderWrapper,
   PostDescriptionWrapper,
   PostDescription,
   PostTags,
@@ -18,6 +17,7 @@ type PostDetailsProps = {
   date?: string;
   preview?: any;
   header?: any;
+  headerAlt?: string;
   description: any;
   tags?: [];
   className?: string;
@@ -29,6 +29,7 @@ const PostDetails: React.FunctionComponent<PostDetailsProps> = ({
   date,
   preview,
   header,
+  headerAlt,
   description,
   tags,
   className,
@@ -43,11 +44,13 @@ const PostDetails: React.FunctionComponent<PostDetailsProps> = ({
 
   return (
     <PostDetailsWrapper {...props} className={addClass.join(" ")}>
-      {/* <PostHeaderWrapper> */}
+      {/* Todo create a good back to home screen stuff
+      <Link to="/" activeStyle={{ color: "blue" }}>
+        Back to homepage
+      </Link> */}
       <PostHeader className="post_preview">
-        <GatsbyImage src={header} alt={title} />
+        <GatsbyImage src={header} alt={headerAlt ? headerAlt : title} />
       </PostHeader>
-      {/* </PostHeaderWrapper> */}
       <PostDescriptionWrapper className="post_des_wrapper">
         {imagePosition == "left" ? (
           <>

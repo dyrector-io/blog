@@ -35,6 +35,7 @@ const Posts: React.FunctionComponent<PostsProps> = () => {
               title
               description
               tags
+              coverAlt
               header {
                 childImageSharp {
                   gatsbyImageData(
@@ -77,6 +78,9 @@ const Posts: React.FunctionComponent<PostsProps> = () => {
               node.frontmatter.cover == null
                 ? null
                 : node.frontmatter.cover.childImageSharp.gatsbyImageData
+            }
+            imageAlt={
+              node.frontmatter.coverAlt ? node.frontmatter.coverAlt : title
             }
             url={node.fields.slug}
             description={node.frontmatter.description || node.excerpt}

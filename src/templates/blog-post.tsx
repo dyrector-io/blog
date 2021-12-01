@@ -38,11 +38,14 @@ const BlogPostTemplate = (props: any) => {
   const siteUrl = props.data.site.siteMetadata.siteUrl;
   const shareUrl = urljoin(siteUrl, slug);
 
+  console.log(`title: ${post.frontmatter.seoTitle}`);
+  console.log(`desc: ${post.frontmatter.seoDescription}`);
+
   return (
     <Layout>
       <SEO
-        title={post.frontmatter.title}
-        description={post.frontmatter.description || post.excerpt}
+        title={post.frontmatter.seoTitle}
+        description={post.frontmatter.seoDescription || post.excerpt}
       />
       <BlogPostDetailsWrapper>
         <PostDetails
@@ -58,10 +61,10 @@ const BlogPostTemplate = (props: any) => {
               ? null
               : post.frontmatter.header.childImageSharp.gatsbyImageData
           }
+          headerAlt={post.frontmatter.headerAlt}
           description={post.html}
           imagePosition="left"
         />
-
         <BlogPostFooter
           className={post.frontmatter.cover == null ? "center" : ""}
         >
@@ -100,7 +103,6 @@ const BlogPostTemplate = (props: any) => {
           className={post.frontmatter.cover == null ? "center" : ""}
         ></BlogPostComment>
       </BlogPostDetailsWrapper>
-
       {edges.length !== 0 && (
         <RelatedPostWrapper>
           <RelatedPostTitle>Related Posts</RelatedPostTitle>
@@ -144,8 +146,10 @@ export const pageQuery = graphql`
       }
       frontmatter {
         title
+        seoTitle
         date(formatString: "DD MMM, YYYY")
         description
+        seoDescription
         tags
         header {
           childImageSharp {
@@ -156,6 +160,7 @@ export const pageQuery = graphql`
             )
           }
         }
+        headerAlt
         cover {
           publicURL
           childImageSharp {
@@ -183,6 +188,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            seoTitle
             tags
             header {
               childImageSharp {
