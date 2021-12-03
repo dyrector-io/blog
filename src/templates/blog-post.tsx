@@ -38,12 +38,12 @@ const BlogPostTemplate = (props: any) => {
   const siteUrl = props.data.site.siteMetadata.siteUrl;
   const shareUrl = urljoin(siteUrl, slug);
 
-  console.log(`title: ${post.frontmatter.seoTitle}`);
-  console.log(`desc: ${post.frontmatter.seoDescription}`);
+  console.log(post.frontmatter.seoTitle);
 
   return (
     <Layout>
       <SEO
+        seoTitle={post.frontmatter.seoTitle}
         title={post.frontmatter.seoTitle}
         description={post.frontmatter.seoDescription || post.excerpt}
       />
