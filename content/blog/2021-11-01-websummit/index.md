@@ -7,8 +7,8 @@ description: This year our crew attended one of the biggest tech conferences of 
 tags: ["websummit", "web", "tech", "conf"]
 cover:  "./dyrectorio-get-ready-for-Web-Summit.jpg"
 header: "./dyrectorio-Web-Summit-things-you-need-to-know-before-you-go.jpg"
-coverAlt: "coverAlt"
-headerAlt: "headerAlt"
+coverAlt: "It's worth taking your time to not only take a look at what to expect from Lisbon when you attend Web Summit but also to discover the city itself."
+headerAlt: "Having your own booth at Web Summit is awesome. It's up to you what kind of equipment you bring to present or demo your idea."
 ---
 
 **Web Summit is an intense, fast paced conference where thousands of up-and-coming innovators try to introduce their vision on how the world should look like. This year, our crew attended it for the first time, and we came to many conclusions we wish we knew before the event. In this post, we’ll summarize our experience so you can be prepared to an event you don’t want to miss out on.**
