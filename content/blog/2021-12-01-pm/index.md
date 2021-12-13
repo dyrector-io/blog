@@ -47,7 +47,7 @@ You can help your teammates to keep it by using certain tools. In this section w
 - **Individual productivity**
 
     - **Todoist:** Successful delivery of the project starts with individual efforts. If your teammates don’t organize their tasks efficiently every day, get ready to be unable to meet your deadlines, which eventually costs you money. 
-Todoist prospers on gamification. Some of our team members use it to keep track of their personal errands, too – because it also offers private to do lists. At the end of each year Todoist ranks all of its users based on how active they were.
+    Todoist prospers on gamification. Some of our team members use it to keep track of their personal errands, too – because it also offers private to do lists. At the end of each year Todoist ranks all of its users based on how active they were.
 
 ## A cool way to get things done
 
