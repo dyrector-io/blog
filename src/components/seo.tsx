@@ -8,6 +8,7 @@ type SEOProps = {
   meta?: any;
   keywords?: any;
   title: string;
+  seoTitle?: string;
 };
 
 const SEO: React.FunctionComponent<SEOProps> = ({
@@ -16,6 +17,7 @@ const SEO: React.FunctionComponent<SEOProps> = ({
   meta,
   keywords,
   title,
+  seoTitle,
 }) => {
   const { site } = useStaticQuery(
     graphql`
@@ -27,18 +29,30 @@ const SEO: React.FunctionComponent<SEOProps> = ({
             author
           }
         }
+        markdownRemark {
+          frontmatter {
+            title
+            seoTitle
+            date(formatString: "DD MMM, YYYY")
+            description
+            seoDescription
+            tags
+            headerAlt
+          }
+        }
       }
     `
   );
 
   const metaDescription = description || site.siteMetadata.description;
+  const availableSeoTitle = seoTitle || site.siteMetadata.title;
 
   return (
     <Helmet
       htmlAttributes={{
         lang,
       }}
-      title={title}
+      title={availableSeoTitle}
       meta={[
         {
           name: `description`,
@@ -46,7 +60,7 @@ const SEO: React.FunctionComponent<SEOProps> = ({
         },
         {
           property: `og:title`,
-          content: title,
+          content: availableSeoTitle,
         },
         {
           property: `og:description`,
@@ -66,7 +80,7 @@ const SEO: React.FunctionComponent<SEOProps> = ({
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: availableSeoTitle,
         },
         {
           name: `twitter:description`,

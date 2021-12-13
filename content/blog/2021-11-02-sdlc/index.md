@@ -1,7 +1,7 @@
 ---
 title: What is SDLC? And how do release management platforms like dyrector.io fit into the lifecycle?
 date: "2021-11-30"
-seoTitle: SDLC & dyrector.io – Seamless software implementation without devs
+seoTitle: SDLC & dyrector.io – Seamless software implementation without devs | dyrector.io Blog
 seoDescription: Find out how to breeze through software development lifecycle by deploying quality software with release management platforms like dyrector.io.
 description: Software development lifecycle is a hierarchic set of steps organizations can utilize to produce quality software time and cost efficiently. In this blogpost we introduce the stages of SDLC and detail how the dyrector.io release management platform can simplify the process.
 tags: ["sdlc", "development"]
