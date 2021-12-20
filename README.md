@@ -10,7 +10,7 @@ Step 3: Enter git status to find any differences made on the branch
 
 Step 4: 'git pull' to update files in blog folder from the branch
 
-Step 5: 'git add.'
+Step 5: 'git add .'
 
 Step 6: 'git commit -m "[comment]"
 
