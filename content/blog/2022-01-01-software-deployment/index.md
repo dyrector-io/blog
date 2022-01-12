@@ -5,8 +5,8 @@ seoTitle: Why You Should Design Fail-Proof Software Deployments
 seoDescription: Poor software deployment processes can risk your application's functionality and eventually result in loss of users.
 description: Application complexity raises higher demand for precise software deployment processes. To avoid downtime and sort out dependencies, your Ops efforts should treat software deployments as top priority.
 tags: ["software deployment"]
-cover: "./dyrectorio-importance-of-software-deployment-processes.jpg"
-header: "./dyrectorio-software-deployment-and-devops.jpg"
+cover: "./dyrectorio-importance-of-software-deployment-processes.png"
+header: "./dyrectorio-software-deployment-and-devops.png"
 coverAlt: "Software deployment is a vital part of development. Not only because it's the logistical phase of development but also frequent and seamless deployments provide secure and compatible applications."
 headerAlt: "Teams that already adopted DevOps methodology can utilize best practices like CI/CD pipelines, when it comes to software deployment."
 ---
