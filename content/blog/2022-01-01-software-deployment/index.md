@@ -1,6 +1,6 @@
 ---
 title: Why You Should Design Fail-Proof Software Deployments
-date: "2022-01-18"
+date: "2022-01-12"
 seoTitle: Why You Should Design Fail-Proof Software Deployments
 seoDescription: Poor software deployment processes can risk your application's functionality and eventually result in loss of users.
 description: Application complexity raises higher demand for precise software deployment processes. To avoid downtime and sort out dependencies, your Ops efforts should treat software deployments as top priority.
