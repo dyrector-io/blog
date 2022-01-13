@@ -27,7 +27,7 @@ We came back from Portugal with new experiences and perspectives, some of them w
 
 ## Takeaway #1: Get to know where you stay
 
-Before you buy your tickets to Web Summit, go check out where you'll stay. You can find tons of great places to stay in the city, although there are some factors that might help your choice. First of all, how close are they to the subway? This is very important because thanks to the courtesy of the organizers, over the days of the Web Summit the participants can use the subway with a 5-day ticket sold specifically to people who came to the conference. This way you’ll get where you want to quicker, which is going to be important as you’ll see below.
+Before you buy your tickets to Web Summit, go check out where you'll stay. You can find tons of great places to stay in the city, although there are some factors that might help your choice. First of all, how close are they to the subway? This is very important because thanks to the courtesy of the organizers, over the days of the [Web Summit](https://websummit.com/) the participants can use the subway with a 5-day ticket sold specifically to people who came to the conference. This way you’ll get where you want to quicker, which is going to be important as you’ll see below.
 
 ## Takeaway #2: Prepare to stand out
 

@@ -53,7 +53,7 @@ A general rule of thumb is that before you deploy, you run tests and make a game
 
 There are certain frameworks that thrive on these rules that sound a lot simpler than the way they are. 
 
-DevOps methodology not only enables but requires frequent deployments. For this, organizations working under DevOps use CI/CD pipelines. 
+DevOps methodology not only enables but requires frequent deployments. For this, organizations working under [DevOps](https://blog.dyrector.io/2021-11-03-devops-differ/) use CI/CD pipelines. 
 
 - **CI stands for continuous integration.** It means that codes are continuously integrated into the software. Currently, when applications often operate as a cluster of microservices, it’s important to sort out dependencies to not hurt functionality on a broader level for the sake of one function. Continuous integration’s purpose, therefore, is to break things early, so the users won’t discover them when it’d be important for them to get their things done. 
 
