@@ -71,6 +71,6 @@ It’s fair to say that we gained a lot of experience during our first Web Summi
 
 *This blog post was written by the crew at [dyrector.io](https://dyrector.io). dyrector.io is a release management platform that enables fast deployment and monitoring for non-technical personnel to save time and energy of developers.*
 
-To stay updated about our product follow us on [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
+To stay updated about our product follow us on [Twitter](https://twitter.com/dyrectorio), [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
 
 Join our public [Discord](https://discord.gg/hMyT9cbYFD) server to discuss DevOps.

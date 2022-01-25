@@ -63,6 +63,6 @@ DevOps is much more than just a technical approach. It’s a complex set of prac
 
 _This blogpost was written by the team of [dyrector.io](https://dyrector.io). dyrector.io is a release management platform supporting your DevOps efforts by reducing the time and effort required to deploy your product. Check our plans to simplify your deployments to be able to focus on the things that matter to your team._
 
-To stay updated about our product follow us on [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
+To stay updated about our product follow us on [Twitter](https://twitter.com/dyrectorio), [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
 
 Join our public [Discord](https://discord.gg/hMyT9cbYFD) server to discuss DevOps.

@@ -71,6 +71,6 @@ After going through all these steps, you can go back to Step #1 – planning –
 
 _Check our plans for further information about [dyrector.io](https://dyrector.io) to see how our state-of-the-art release management platform can support your deployment and monitoring efforts._
 
-To stay updated about our product follow us on [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
+To stay updated about our product follow us on [Twitter](https://twitter.com/dyrectorio), [Twitter](https://twitter.com/dyrectorio), [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
 
 Join our public [Discord](https://discord.gg/hMyT9cbYFD) server to discuss DevOps.
