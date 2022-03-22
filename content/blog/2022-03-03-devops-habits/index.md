@@ -1,6 +1,6 @@
 ---
 title: "Everyday Habits for Successful DevOps Adoption "
-date: "2022-03-09"
+date: "2022-03-22"
 seoTitle: "Everyday Habits for Successful DevOps Adoption | dyrector.io"
 seoDescription: DevOps adoption isn't only a technical shift, but also a cultural change. There are everyday DevOps habits teams and individuals can embrace.
 description: DevOps adoption is at least the same amount of cultural change in an organization as a technical one. Because of this, sometimes teams find it hard to complete the adjustments. Find out about the everyday habits that can get you to the next level of DevOps adoption.
