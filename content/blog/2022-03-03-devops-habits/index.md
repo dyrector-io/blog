@@ -15,7 +15,7 @@ headerAlt: "DevOps engineers often don't know how to help their team. Changing t
 
 ---
 
-“I am a DevOps Engineer but most of the time I have no idea what I am doing” – posted a desperate DevOps engineer on [Reddit](https://www.reddit.com/r/devops/comments/s7r8i2/do_you_guys_know_what_you_are_doing_most_of_the/) last December looking for answers if he’s in the wrong for not knowing what he must do every day. This anonymous engineer isn’t different from Bruce Wayne in a Batman suit with all his gadgets. Is Bruce even Batman if he doesn’t do Batman stuff with his equipment? Is this engineer a DevOps engineer if he doesn’t do DevOps stuff?
+“I am a DevOps Engineer but most of the time I have no idea what I am doing” – posted a desperate DevOps engineer on [Reddit](https://www.reddit.com/r/devops/comments/s7r8i2/do_you_guys_know_what_you_are_doing_most_of_the/) in January. He was looking for answers if he’s in the wrong for not knowing what he must do every day. This anonymous engineer isn’t different from Bruce Wayne in a Batman suit with all his gadgets. Is Bruce even Batman if he doesn’t do Batman stuff with his equipment? Is this engineer a DevOps engineer if he doesn’t do DevOps stuff?
 
 As a DevOps specialist it’s easy to get lost between the various responsibilities. After all, DevOps itself is a mixture of both [cultural and technical aspects](https://blog.dyrector.io/2021-11-03-devops-differ/). It’s one of the challenges organizations and individuals need to overcome together. To make meaningful changes, both entities have to implement changes to the things they do every day. Starting from meetings to the way they manage problems.
 
@@ -49,7 +49,7 @@ There are many practices organizations can implement to their everyday lives to 
 
 ## Summary 
 
-The first step of DevOps adoption is practicing DevOps things – just like Bruce Wayne doing hero stuff to eventually become Batman. Adopting DevOps consists of everyday habits, including the ones outlined above. The habits and adjustments mentioned can help you make meaningful changes that leave a lasting impact on your organization if you keep doing them constantly. Some of these practices don’t bring results individually but combining them can bring your organization to the next level. 
+The first step of DevOps adoption is practicing DevOps things – just like Bruce Wayne doing hero stuff to eventually become Batman. Adopting DevOps consists of everyday habits, including the ones outlined above. The habits and adjustments mentioned can help you make meaningful changes that leave a lasting impact on your organization if you keep doing them constantly. These practices don’t bring results individually but combining them can bring your organization to the next level. 
 
 ---
 
