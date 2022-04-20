@@ -49,7 +49,7 @@ Based on these traits, it makes sense to define co-dependent metrics. After all,
 
 ## How to measure?
 
-As of now, there’s no industry standard to measure DevOps performance. Developers can create the logs required to measure DevOps performance but there are open-source tools they can simply integrate to your organization’s development lifecycle and keep track of any metric you think is important. From our experience combining Prometheus and Grafana is a viable way to get it done.
+As of now, there’s no industry standard to measure DevOps performance. Developers can create the logs required to measure DevOps performance but there are open-source tools they can simply integrate to your organization’s development lifecycle and keep track of any metric you think is important. From our experience combining [Prometheus](https://prometheus.io/) and [Grafana](https://grafana.com/) is a viable way to get it done.
 
 While Prometheus monitors application status from any aspect, Grafana can visualise the gathered data from Prometheus, making the log more transparent for non-technical stakeholders and decision makers.
 
@@ -59,7 +59,7 @@ Your team is already [automating](https://blog.dyrector.io/2022-01-02-cicd/) as 
 
 ---
 
-_This blogpost was written by the team of specialists at [dyrector.io](https://dyrector.io). As DevOps-as-a-Service providers, we do DevOps stuff every day and we're happy to share our knowledge._
+_This blogpost was written by the team of specialists at [dyrector.io](https://dyrector.io). As [DevOps-as-a-Service](https://devops.dyrector.io/) providers, we do DevOps stuff every day and we're happy to share our knowledge._
 
 _In the mean time we're working on dyrector.io, a release management platform supporting your DevOps efforts by reducing the time and effort required to deploy your product. Check our plans to simplify your deployments to be able to focus on the things that matter to your team._
 
