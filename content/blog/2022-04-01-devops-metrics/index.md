@@ -3,7 +3,7 @@ title: "A Brief Guide to DevOps Metrics"
 date: "2022-04-20"
 seoTitle: "A Brief Guide to DevOps Metrics | dyrector.io"
 seoDescription: Although DevOps metrics give organizations insight on performance, there's no industry standard to measurements. Find out how to track them from our blog post.
-description: DevOps adoption is at least the same amount of cultural change in an organization as a technical one. Because of this, sometimes teams find it hard to complete the adjustments. Find out about the everyday habits that can get you to the next level of DevOps adoption.
+description: Understanding the efficiency of your DevOps processes is the first step towards improvement. Unfortunately, there's no industry standard to track DevOps metrics. In our blog post, we outline the most important things to look for and give one recommendation on how to measure them.
 tags: ["DevOps"]
 cover: "./dyrectorio-devops-metrics-performance-measurement.png"
 header: "./dyrectorio-how-to-track-devops-metrics.png"
