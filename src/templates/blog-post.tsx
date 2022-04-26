@@ -1,34 +1,35 @@
-import React from "react";
-import { graphql, Link } from "gatsby";
-import _ from "lodash";
-import urljoin from "url-join";
-import Layout from "../components/layout";
-import SEO from "../components/seo";
-import PostCard from "../components/post-card/post-card";
-import PostDetails from "../components/post-details/post-details";
 import {
-  FacebookShareButton,
-  TwitterShareButton,
-  PinterestShareButton,
-  RedditShareButton,
-} from "react-share";
-import {
-  IoLogoFacebook,
-  IoLogoTwitter,
-  IoLogoPinterest,
-  IoLogoReddit,
-} from "react-icons/io";
-import {
+  BlogPostComment,
   BlogPostDetailsWrapper,
-  RelatedPostWrapper,
-  RelatedPostItems,
-  RelatedPostTitle,
-  RelatedPostItem,
   BlogPostFooter,
   PostShare,
   PostTags,
-  BlogPostComment,
+  RelatedPostItem,
+  RelatedPostItems,
+  RelatedPostTitle,
+  RelatedPostWrapper,
 } from "./templates.style";
+import {
+  FacebookShareButton,
+  PinterestShareButton,
+  RedditShareButton,
+  TwitterShareButton,
+} from "react-share";
+import {
+  IoLogoFacebook,
+  IoLogoPinterest,
+  IoLogoReddit,
+  IoLogoTwitter,
+} from "react-icons/io";
+import { Link, graphql } from "gatsby";
+
+import Layout from "../components/layout";
+import PostCard from "../components/post-card/post-card";
+import PostDetails from "../components/post-details/post-details";
+import React from "react";
+import SEO from "../components/seo";
+import _ from "lodash";
+import urljoin from "url-join";
 
 const BlogPostTemplate = (props: any) => {
   const post = props.data.markdownRemark;
@@ -112,6 +113,7 @@ const BlogPostTemplate = (props: any) => {
                 <PostCard
                   title={node.frontmatter.title || node.fields.slug}
                   url={node.fields.slug}
+                  description={node.frontmatter.description}
                   image={
                     node.frontmatter.cover == null
                       ? null
@@ -188,6 +190,7 @@ export const pageQuery = graphql`
           }
           frontmatter {
             title
+            description
             seoTitle
             tags
             header {

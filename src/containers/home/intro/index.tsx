@@ -1,33 +1,41 @@
-import React from "react";
-import { useStaticQuery, graphql } from "gatsby";
-import GatsbyImage from "../../../components/gatsby-image";
-import SocialProfile from "../../../components/social-profile/social-profile";
 import {
-  IntroWrapper,
-  IntroImage,
-  IntroTitle,
   Desciption,
+  IntroImage,
   IntroInfo,
+  IntroTitle,
+  IntroWrapper,
 } from "./style";
 import {
   IoLogoFacebook,
-  IoLogoTwitter,
-  IoLogoInstagram,
   IoLogoGithub,
+  IoLogoInstagram,
+  IoLogoLinkedin,
+  IoLogoTwitter,
 } from "react-icons/io";
+import { graphql, useStaticQuery } from "gatsby";
+
+import { FaMediumM } from "@react-icons/all-files/fa/FaMediumM";
+import GatsbyImage from "../../../components/gatsby-image";
+import React from "react";
+import SocialProfile from "../../../components/social-profile/social-profile";
 
 type IntroProps = {};
 
 const SocialLinks = [
   {
-    icon: <IoLogoFacebook />,
-    url: "https://www.facebook.com/dyrectorio",
-    tooltip: "Facebook",
+    icon: <IoLogoGithub />,
+    url: "https://github.com/dyrector-io",
+    tooltip: "Github",
   },
   {
-    icon: <IoLogoInstagram />,
-    url: "https://www.instagram.com/dyrectorio/",
-    tooltip: "Instagram",
+    icon: <FaMediumM />,
+    url: "https://medium.com/@dyrectorio",
+    tooltip: "Medium",
+  },
+  {
+    icon: <IoLogoLinkedin />,
+    url: "https://www.linkedin.com/company/dyrectorio",
+    tooltip: "LinkedIn",
   },
   {
     icon: <IoLogoTwitter />,
@@ -35,9 +43,14 @@ const SocialLinks = [
     tooltip: "Twitter",
   },
   {
-    icon: <IoLogoGithub />,
-    url: "https://github.com/dyrector-io",
-    tooltip: "Github",
+    icon: <IoLogoInstagram />,
+    url: "https://www.instagram.com/dyrectorio/",
+    tooltip: "Instagram",
+  },
+  {
+    icon: <IoLogoFacebook />,
+    url: "https://www.facebook.com/dyrectorio",
+    tooltip: "Facebook",
   },
 ];
 

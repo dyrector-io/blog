@@ -1,22 +1,26 @@
 import * as React from 'react';
+
+import {
+  Excerpt,
+  PostCardWrapper,
+  PostContent,
+  PostDate,
+  PostDetails,
+  PostPreview,
+  PostTags,
+  PostTitle,
+} from './post-card.style';
+
+import GatsbyImage from '../../components/gatsby-image';
 import { Link } from 'gatsby';
 import _ from 'lodash';
-import GatsbyImage from '../../components/gatsby-image';
-import {
-  PostCardWrapper,
-  PostPreview,
-  PostDetails,
-  PostDate,
-  PostTitle,
-  Excerpt,
-  PostContent,
-  PostTags,
-} from './post-card.style';
+import { string } from 'yup';
 
 interface PostCardProps {
   image?: any;
   title: string;
   description?: string;
+  seoDescription: string;
   url: string;
   date?: string;
   tags?: [];
@@ -27,6 +31,7 @@ const PostCard: React.FunctionComponent<PostCardProps> = ({
   image,
   title,
   description,
+  seoDescription,
   url,
   date,
   tags,

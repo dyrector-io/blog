@@ -96,6 +96,7 @@ export const RelatedPostItem = styled.div`
     }
 
     .post_preview {
+      width: 40%;
       margin-bottom: 16px;
       overflow: hidden;
       a {

@@ -1,8 +1,10 @@
 import * as React from "react";
-import { useStaticQuery, graphql } from "gatsby";
-import PostCardMinimal from "../../../components/post-card-minimal/post-card-minimal";
-import Pagination from "../../../components/pagination/pagination";
+
 import BlogPostsWrapper, { SecTitle } from "./style";
+import { graphql, useStaticQuery } from "gatsby";
+
+import Pagination from "../../../components/pagination/pagination";
+import PostCardMinimal from "../../../components/post-card-minimal/post-card-minimal";
 
 type PostsProps = {};
 
@@ -21,7 +23,7 @@ const Posts: React.FunctionComponent<PostsProps> = () => {
       }
       allMarkdownRemark(
         sort: { fields: [frontmatter___date], order: DESC }
-        limit: 5
+        limit: 30
       ) {
         totalCount
         edges {

@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Team dyrector.io",
   "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
     "@styled-system/theme-get": "^5.1.2",
     "axios": "^0.24.0",
     "babel-plugin-styled-components": "^1.13.3",
