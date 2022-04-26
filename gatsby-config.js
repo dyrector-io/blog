@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Blog | dyrector.io`,
     author: `dyrector.io`,
-    about: `Make your release management easier. Using dyrector.io #DevOps platform, you can manage and deploy your software to cloud infrastructures with ease.`,
+    about: `DevOps is the art of constant technical and cultural improvements. Learn about tips and tricks from our DevOps experts to find out how to take the next step with your organization.`,
     description: `dyrector.io aims to simplify your release management. Check our blog to stay updated about DevOps and release management.`,
     siteUrl: `https://dyrector.io`,
     keywords: ["devops", "dev"],

@@ -72,7 +72,7 @@ const Intro: React.FunctionComponent<IntroProps> = () => {
       </IntroImage>
       <IntroInfo>
         <IntroTitle>
-          Bonjour! Welkommen in <b>{author}</b> blog.
+        Hello! Nice to see you at <b>{author}</b> blog where you can learn about DevOps.
         </IntroTitle>
         <Desciption>{about}</Desciption>
         <SocialProfile items={SocialLinks} />
