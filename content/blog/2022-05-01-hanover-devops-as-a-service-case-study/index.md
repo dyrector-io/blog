@@ -22,11 +22,8 @@ Hanover’s applications run on the cloud and are distributed via Helios. Helios
 Hanover’s apps are the following: 
 
 - **Fleet** – Transmodel based asset management
-
 - **Transfers** – Wireless data updater
-
 - **Health** – Device status monitoring
-
 - **Destinations** – Sign editor solution
 
 ## Hanover’s Requirements  
