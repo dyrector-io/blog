@@ -89,13 +89,13 @@ As a DevOps-as-a-Service provider, our purpose is to support organizations’ ef
 
 In dyrector.io’s workflow, we defined 4 roles – developers, release managers, DevOps engineers and stakeholders.
 
-Developers commit to Azure Repository, which generates an artifact. In Hanover’s case, the artifact is a Docker image that’s automatically built – this process can be triggered through dyrector.io platform using Azure DevOps, as well, if necessary. After these steps the image is pushed to Hanover’s private registry.
+**Developers** commit to Azure Repository, which generates an artifact. In Hanover’s case, the artifact is a Docker image that’s automatically built – this process can be triggered through dyrector.io platform using Azure DevOps, as well, if necessary. After these steps the image is pushed to Hanover’s private registry.
 
-Release managers have access to the releases, and they can deploy them to desired environments with a single click through Azure Kubernetes Service. They’re also able to validate functionality and monitor the progress of development. This is a substantial aspect of dyrector.io because it’s the release managers who are in touch with Hanover’s clients. Based on their consultation they can determine the environment each version can be deployed to, and which client can get access to them. This makes dyrector.io an ultimate tool of collaboration in Hanover’s workflows.
+**Release managers** have access to the releases, and they can deploy them to desired environments with a single click through Azure Kubernetes Service. They’re also able to validate functionality and monitor the progress of development. This is a substantial aspect of dyrector.io because it’s the release managers who are in touch with Hanover’s clients. Based on their consultation they can determine the environment each version can be deployed to, and which client can get access to them. This makes dyrector.io an ultimate tool of collaboration in Hanover’s workflows.
 
-DevOps engineers – in Hanover’s case, our own staff – configure the components required for these workflows and pipelines, including Azure Kubernetes Service. It’s their responsibility to create communication between dyrector.io platform and Azure DevOps and connect dyrector.io’s orchestration service to the Kubernetes API.
+**DevOps engineers** – in Hanover’s case, our own staff – configure the components required for these workflows and pipelines, including Azure Kubernetes Service. It’s their responsibility to create communication between dyrector.io platform and Azure DevOps and connect dyrector.io’s orchestration service to the Kubernetes API.
 
-The 4th role in the workflow, stakeholder has access to version information but don’t have executional access to functions of the pipeline.
+The 4th role in the workflow, **stakeholder** has access to version information but don’t have executional access to functions of the pipeline.
 
 ## Results
 
