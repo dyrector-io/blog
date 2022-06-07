@@ -11,6 +11,12 @@ coverAlt: "Hanover Displays needed DevOps services to be able to improve their a
 headerAlt: "Originally Hanover's applications run on an on-prem environment but they needed Kubernetes clusters to provide more stability. Our DevOps-as-a-Service solutions served that."
 ---
 
+## tl;dr
+
+Hanover Displays designs and manufactures passenger information systems for the public transport industry. They needed to migrate their multi-tenant applications to the cloud, so we set up the required environments for testing, staging and production. We also set up cloud services, including Kubernetes to support the maintainability and security of Hanover's applications.
+
+To manage their app releases on the cloud easier, Hanover uses our product, dyrector.io. It's a developer platform which enables non-technical staff members to manage software releases by assembling products made of containerized applications, tailored to client needs.
+
 ## About Hanover
 
 Hanover designs and manufactures passenger information systems for the public transport industry. Satisfied customers in over 75 countries worldwide use a range of Hanover products, attracted by high levels of quality, reliability and customer service. The security afforded by 35 years’ experience, financial independence and a continuous product development programme is further assurance of the company’s dependability. Together with its headquarters and production facility in Lewes, Hanover has a further manufacturing site in Illinois in the US. Both sites produce more than 45,000 units annually across the product range, and shipping to customers in over 75 countries throughout the world for a client list that includes transport authorities, fleet operators, and vehicle manufacturers.
