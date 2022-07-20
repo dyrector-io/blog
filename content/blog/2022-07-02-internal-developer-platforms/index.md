@@ -47,7 +47,7 @@ These require fool-proof preparations, de facto internal processes provided by I
 
 ## IDP Adoption is Challenging
 
-Old habits die hard, and teams won’t move their processes from one tool to another in an instant. According to Humanitec’s research, forcing your teams to use Internal Developer Platforms top-down is counterproductive. Creating resistance against a product that’d be beneficial for everyone involved in the processes IDPs simplify isn’t what you’re trying to achieve.
+Old habits die hard, and teams won’t move their processes from one tool to another in an instant. According to Humanitec’s [research](https://humanitec.com/blog/top-10-fallacies-in-platform-engineering), forcing your teams to use Internal Developer Platforms top-down is counterproductive. Creating resistance against a product that’d be beneficial for everyone involved in the processes IDPs simplify isn’t what you’re trying to achieve.
 
 What they suggest is to assemble a team that could advocate for the Internal Developer Platform and spend time on understanding the pain points they deal with. Involving your technical staff on this matter from the beginning can lead to success.
 
