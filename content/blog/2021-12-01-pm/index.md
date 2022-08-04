@@ -63,8 +63,12 @@ Successful project management begins with the individual efforts of the team mem
 
 When we’re talking about project management there’s no silver bullet because every team and everybody are different. These project management frameworks aren’t written in the stone, you can always make some tweaks to make it suitable for your teammates and the size of your team. At the end of the day the only thing that matters is if you brought the ring to Mordor on time.
 
-_This blogpost was written by the team of [dyrector.io](https://dyrector.io). dyrector.io is a release management platform supporting your DevOps efforts by reducing the time and effort required to deploy your product. Check our plans to simplify your deployments to be able to focus on the things that matter to your team._
+---
 
-To stay updated about our product follow us on [Twitter](https://twitter.com/dyrectorio), [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
+_This blogpost was written by the team of specialists at [dyrector.io](https://dyrector.io). dyrector.io is an open source delivery platform that enables simplified app management without specialists._
+
+**Find our project on [GitHub](https://github.com/dyrector-io/dyrectorio/). Read our [docs](https://docs.dyrector.io/) to learn more about our platform. Any contribution is welcome!**
+
+To stay updated about our product follow us on [Twitter](https://twitter.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
 
 Join our public [Discord](https://discord.gg/hMyT9cbYFD) server to discuss DevOps.

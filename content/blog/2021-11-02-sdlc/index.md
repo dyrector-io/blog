@@ -69,8 +69,12 @@ After deployment, the end-users can finally access the application and use its f
 
 After going through all these steps, you can go back to Step #1 – planning – to develop and deploy new functions into your software based on user activity by utilizing the SDLC. Bear in mind that while SDLC has a strict hierarchy of steps, you can customize them to your organization’s needs and resources.
 
-_Check our plans for further information about [dyrector.io](https://dyrector.io) to see how our state-of-the-art release management platform can support your deployment and monitoring efforts._
+---
 
-To stay updated about our product follow us on [Twitter](https://twitter.com/dyrectorio), [Facebook](https://www.facebook.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
+_This blogpost was written by the team of specialists at [dyrector.io](https://dyrector.io). dyrector.io is an open source delivery platform that enables simplified app management without specialists._
+
+**Find our project on [GitHub](https://github.com/dyrector-io/dyrectorio/). Read our [docs](https://docs.dyrector.io/) to learn more about our platform. Any contribution is welcome!**
+
+To stay updated about our product follow us on [Twitter](https://twitter.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
 
 Join our public [Discord](https://discord.gg/hMyT9cbYFD) server to discuss DevOps.
