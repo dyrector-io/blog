@@ -27,6 +27,7 @@ Simple products don’t have any versions, they don’t have any relation to oth
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/AnchoredIdleBlackrhino' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
+
 You can deploy them to a test environment through dyrector.io right away without any specialist present. In the case of self-hosted dyrector.io, the test node will be the environment you use to run the platform.
 
 ### Complex Products
@@ -39,9 +40,11 @@ There are two types of Complex Products: Rolling and Incremental Versions.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RaggedPhonyImperialeagle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
+
 - **Rolling Version:** It consists of one rolling version your teammates can use for continuous delivery, but it can be rolled back. Below you can see how you can create a Rolling Version.
 
 <div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/EmbarrassedReflectingLamprey' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
 
 Complex Products can have both Rolling and Incremental Versions, so you can maintain versions of the same business product for different technical purposes.
 
