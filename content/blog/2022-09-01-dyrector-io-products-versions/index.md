@@ -23,7 +23,9 @@ There are two types of Products you can create: Simple and Complex.
 
 ### Simple Products
 
-Simple products don’t have any versions, they don’t have any relation to other Products or Versions. This means there’s no way to roll them back. They’re ideal for testing.
+Simple products don’t have any versions, they don’t have any relation to other Products or Versions. This means there’s no way to roll them back. They’re ideal for testing. Below you can see how you can create a Simple Product in less than a minute.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/AnchoredIdleBlackrhino' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 You can deploy them to a test environment through dyrector.io right away without any specialist present. In the case of self-hosted dyrector.io, the test node will be the environment you use to run the platform.
 
@@ -33,9 +35,13 @@ The key difference between Simple and Complex Products is that the ladder comes 
 
 There are two types of Complex Products: Rolling and Incremental Versions.
 
-- **Rolling Version:** It consists of one rolling version your teammates can use for continuous delivery, but it can be rolled back and defaulted. When you set a Rolling Version as default, the Rolling Versions you create in the future for this Product will inherit the images and the configurations, so you won’t have to repeatedly add them.
+- **Incremental Version:** The most significant difference between Incremental Versions and any other type of Product is that they’re hierarchical to other Versions within the same Product. Incremental Versions are ideal for production, when your application’s functionality has been validated through various tests. Rollbacks and defaulting apply to Incremental Versions, so when you set an Incremental Version as default, future versions will inherit images and configurations and you won't have to add them repeatedly. Below you can see how you can create an Incremental Version to a Complex Product.
 
-- **Incremental Version:** The most significant difference between Incremental Versions and any other type of Product is that they’re hierarchical to other Versions within the same Product. Incremental Versions are ideal for production, when your application’s functionality has been validated through various tests. Rollbacks and defaulting apply to Incremental Versions, as well.
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/RaggedPhonyImperialeagle' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+
+- **Rolling Version:** It consists of one rolling version your teammates can use for continuous delivery, but it can be rolled back. Below you can see how you can create a Rolling Version.
+
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/EmbarrassedReflectingLamprey' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
 Complex Products can have both Rolling and Incremental Versions, so you can maintain versions of the same business product for different technical purposes.
 
@@ -49,7 +55,7 @@ The most common use case of Products on dyrector.io is to create a Simple Produc
 
 By our experience, a less common, but significantly valuable use case of having different versions of your product is when your team develops an extremely complex business application consisting of dozens of images with altering tags that need to be distributed to different clients. Not only Product assembly but configuration management can be all over the place in this case. For this reason, our team is working on bundled configuration management, which will allow users to templatize their variables and secrets, so they won’t have to be specified and assigned repeatedly.
 
-To find out how to create Products and Versions, head to our [documentation](https://docs.dyrector.io).
+To find out how to create Products and Versions, head to our [documentation](https://docs.dyrector.io/tutorials/create-your-product).
 
 ---
 
