@@ -11,7 +11,7 @@ coverAlt: "Versions help you to distribute and test different variants of your P
 headerAlt: "There are two types of Products that come with at least one version. There's one type that comes without any versions."
 ---
 
-**dyrector.io's main use case is to manage #app releases and their configurations in #Kubernetes and #Docker. This is why we created Products and Versions. See how you can set up your application ready for deployment in under a minute using Products and Versions.**
+**dyrector.io's main use case is to manage app releases and their configurations in Kubernetes and Docker. This is why we created Products and Versions. See how you can set up your application ready for deployment in under a minute using Products and Versions.**
 
 ---
 
