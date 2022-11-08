@@ -11,7 +11,7 @@ coverAlt: "Blog post cover image reading: Open-source is the ultimate developer 
 headerAlt: "Blog post header reading: Open-source is the ultimate developer experience lesson."
 ---
 
-**Helping developers to simply deploy any applications they develop to their desired environment is our core mission. It was a no-brainer to participate as a project to the key open-source event of the year when we were able to engage with other developers. Hacktoberfest will be helpful for to provide the best developer experience to our users in the long run.**
+**Helping developers to simply deploy any applications they develop to their desired environment is our core mission. It was a no-brainer to participate as a project to the key open-source event of the year when we were able to engage with other developers. Hacktoberfest will be helpful for us to provide the best developer experience to our users in the long run.**
 
 ---
 
