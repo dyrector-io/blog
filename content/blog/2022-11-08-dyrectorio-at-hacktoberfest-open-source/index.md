@@ -21,7 +21,7 @@ Open-source software changes lives. It was no different to our community this Ha
 
 We talked to some of our 11 contributors who made 19 commits in total. This might not sound like a lot, but as a project at the starting line, we weren’t expecting any of it. We made issues mainly related to Kubernetes, Golang and Typescript. Our goal was to help first time contributors and be as supportive as we could be with the people who chose to devote their free time to work on improving the platform.
 
-One of our contributors, Raghav highlighted our helpful approach to contributors. “I really liked how helpful you guys were during the entire time. I honestly had no idea of Docker or Golang before contributing but I somehow managed to do the required task with your help”, he said. “I was really worried that you guys would doubt my competency judging by the kind of work I did but it all worked out just fine, I guess", he added explaining he participated in Hacktoberfest while his university exams were going on.
+One of our contributors, Ritvik highlighted our helpful approach to contributors. “I really liked how helpful you guys were during the entire time. I honestly had no idea of Docker or Golang before contributing but I somehow managed to do the required task with your help”, he said. “I was really worried that you guys would doubt my competency judging by the kind of work I did but it all worked out just fine, I guess", he added explaining he participated in Hacktoberfest while his university exams were going on.
 
 “I'm glad to have contributed in this ambitious project", said Kit, another community member of ours. 
 
