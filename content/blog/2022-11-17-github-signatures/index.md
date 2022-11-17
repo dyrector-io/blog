@@ -8,7 +8,7 @@ tags: ["Open-source, GitHub"]
 cover: "./dyrector-io-github-commit-signatures.png"
 header: "./dyrector-io-github-commit-signature-verification-gpg.png"
 coverAlt: "Blog post cover reading "It's not that hard to sign your commits in one of the 3 possible ways on GitHub." in commit signatures topic with illustration of a man standing before a lock."
-headerAlt: "It's not that hard to sign your commits in one of the 3 possible ways on GitHub." in commit signatures topic"
+headerAlt: "Blog post header reading "It's not that hard to sign your commits in one of the 3 possible ways on GitHub." in commit signatures topic"
 ---
 
 **You wouldn’t approve pull requests with unsigned commits on GitHub, the same way you wouldn’t steal a house. So why would you open a pull request without signed commits?**
@@ -17,7 +17,7 @@ headerAlt: "It's not that hard to sign your commits in one of the 3 possible way
 
 Commit signatures on GitHub might not seem like that big of a deal but open-source contributors can’t overlook this seemingly tiny detail when they create pull requests. In this blog post, we’ll detail why commit signatures are critical to maintain trust between contributors and maintainers, and how users can sign their commits.
 
-## Why Commit Signatures are Needed
+## Why Commit Signatures Are Needed
 
 Trust makes open-source software go round. After all, literally anyone can contribute to any open-source project out there. Maintainers need to make sure that the contributors are real and mean no harm to the code.
 
@@ -37,7 +37,7 @@ Vigilant mode provides 3 statuses to your commit signatures:
 
 These statuses enable maintainers to decide verify the origins of the commit with higher confidence. You can find out **[here](https://docs.github.com/en/authentication/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits)** how to enable vigilant mode on GitHub.
 
-## How To Sign Commits
+## How to Sign Commits
 
 You can validate your commits by using an SSH, a GPG or an S/MIME key. While SSH and GPG are mostly suitable for individual users, S/MIME is mainly useful for bigger teams and organizations.
 
@@ -75,7 +75,7 @@ This is how you can sign commits with GPG keys:
 
 These steps can alter based on your local OS, so for further details, check GitHub’s **[documentation](https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account)**.
 
-## S/MIME encryption
+### S/MIME encryption
 
 Mostly used by organizations to sign emails, S/MIME can also be used to sign commits. From a user’s point of view, this is easier to set up since the X.509 keys are usually issued by their organizations.
 
