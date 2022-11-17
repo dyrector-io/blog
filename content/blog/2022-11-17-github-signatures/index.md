@@ -7,8 +7,8 @@ description: The same way you wouldn't download an application from an untrusted
 tags: ["Open-source, GitHub"]
 cover: "./dyrector-io-github-commit-signatures.png"
 header: "./dyrector-io-github-commit-signature-verification-gpg.png"
-coverAlt: `Blog post cover reading "It's not that hard to sign your commits in one of the 3 possible ways on GitHub." in commit signatures topic with illustration of a man standing before a lock.`
-headerAlt: `Blog post header reading "It's not that hard to sign your commits in one of the 3 possible ways on GitHub." in commit signatures topic`
+coverAlt: "Blog post cover reading: It's not that hard to sign your commits in one of the 3 possible ways on GitHub, in commit signatures topic with illustration of a man standing before a lock."
+headerAlt: "Blog post header reading: It's not that hard to sign your commits in one of the 3 possible ways on GitHub, in commit signatures topic"
 ---
 
 **You wouldn’t approve pull requests with unsigned commits on GitHub, the same way you wouldn’t steal a house. So why would you open a pull request without signed commits?**
