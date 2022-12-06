@@ -71,7 +71,7 @@ return err
 
 You might know the problem here; this can feel repetitive, painful and unnecessary, mainly if you have C# or Java background. Defer also exists but its use cases are limited due to its nature.
 
-Digging deeper into the error handling of Go is out of the scope of this blog post but if you’re curious about it, you can find out more here. Those who critique error handling of the language tend to point out that stack tracing is missing. Many still prefer the good old try-catch approach, because it’s available in Java, .NET, and C, as well.
+Digging deeper into the error handling of Go is out of the scope of this blog post but if you’re curious about it, you can find out more **[here](https://golangbot.com/error-handling/)**. Those who critique error handling of the language tend to point out that stack tracing is missing. Many still prefer the good old try-catch approach, because it’s available in Java, .NET, and C, as well.
 
 Besides errors, there are panic() functions in Go. It means the code halts the execution which is a fatal state. An opinionated practice to use panics in combination with middlewares. Let’s consider the scenario when the web server can't handle a request or a resource is unavailable, a middleware could recover and return a proper error code and the server proceeds to handle requests instead of crashing. This allows the service to abort execution when a fatal error emerges, without endangering other requests being in progress. This also allows database rollbacks when the server interacts with them. A disadvantage of it is that it’s difficult to test. panic() resembles “goto”, that’s why it’s beneficial to avoid. Standard error handling is still more explicit about intent.
 
