@@ -65,7 +65,7 @@ When we’re talking about project management there’s no silver bullet because
 
 ---
 
-_This blogpost was written by the team of specialists at [dyrector.io](https://dyrector.io). dyrector.io is an open source delivery platform that enables simplified app management without specialists._
+_This blogpost was written by the team of specialists at [dyrector.io](https://dyrector.io). dyrector.io is an open-source container management platform._
 
 **Find our project on [GitHub](https://github.com/dyrector-io/dyrectorio/). Read our [docs](https://docs.dyrector.io/) to learn more about our platform. Any contribution is welcome!**
 
