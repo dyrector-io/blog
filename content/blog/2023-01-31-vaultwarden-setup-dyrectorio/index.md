@@ -103,13 +103,13 @@ The only remaining step is to deploy Vaultwarden to the VPS.
 
 Click on `Templates` on the left and select Vaultwarden from the templates listed by clicking `Add`.
 
-![dyrector-io-Vaultwarden-template-01.png](dyrector-io-Vaultwarden-template-01.png)
+![dyrector-io-Vaultwarden-template-01.png](./dyrector-io-Vaultwarden-template-01.png)
 
 You're able to specify a name and a description to the Vaultwarden stack you plan to deploy. Depending on if you plan to roll out the latest version of Vaultwarden, you can pick if you want to deploy Vaultwarden as a simple or a complex type of product. More details on the differences **[here](https://docs.dyrector.io/tutorials/create-your-product)**, but a simple product will likely do for most users.
 
 Click `Add` to save Vaultwarden as a product.
 
-![dyrector-io-Vaultwarden-template-02.png](dyrector-io-Vaultwarden-template-02.png)
+![dyrector-io-Vaultwarden-template-02.png](./dyrector-io-Vaultwarden-template-02.png)
 
 Click on the gear icon next to Vaultwarden's image. On the configuration screen specify the following variables with your domain:
 
@@ -120,23 +120,23 @@ When you got the domain configured, click `Back` to head back to Vaultwarden's o
 
 Click `Add deployment`.
 
-![dyrector-io-Vaultwarden-template-03.png](dyrector-io-Vaultwarden-template-03.png)
+![dyrector-io-Vaultwarden-template-03.png](./dyrector-io-Vaultwarden-template-03.png)
 
 Select the Node – your VPS –, and click Add.
 
-![dyrector-io-Vaultwarden-template-04.png](dyrector-io-Vaultwarden-template-04.png)
+![dyrector-io-Vaultwarden-template-04.png](./dyrector-io-Vaultwarden-template-04.png)
 
 Click `Deploy` to setup Vaultwarden.
 
-![dyrector-io-Vaultwarden-template-05.png](dyrector-io-Vaultwarden-template-05.png)
+![dyrector-io-Vaultwarden-template-05.png](./dyrector-io-Vaultwarden-template-05.png)
 
 After the deployment status turns successful...
 
-![dyrector-io-Vaultwarden-template-06.png](dyrector-io-Vaultwarden-template-06.png)
+![dyrector-io-Vaultwarden-template-06.png](./dyrector-io-Vaultwarden-template-06.png)
 
 Enter domain in the URL bar and enjoy your self-hosted Vaultwarden, as seen below.
 
-![dyrector-io-Vaultwarden-template-07.png](dyrector-io-Vaultwarden-template-07.png)
+![dyrector-io-Vaultwarden-template-07.png](./dyrector-io-Vaultwarden-template-07.png)
 
 ---
 
