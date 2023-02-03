@@ -20,7 +20,7 @@ headerAlt: Blog post header reading Vaultwarden in Template category.
 Before you can do anything, you’ll need a VPS where you’ll host Vaultwarden.
 
 <details>
-<summary>When looking for a VPS provider to host Vaultwarden, you need to consider several factors:</summary>
+<summary><b>When looking for a VPS provider to host Vaultwarden, you need to consider several factors:</b></summary>
   
 - **Resources.** Vaultwarden isn’t a resource demanding application. According to a closed **[issue](https://github.com/dani-garcia/vaultwarden/issues/277)** from 2018 on the project’s GitHub repo, the stack can basically run on any hardware.
 
@@ -54,7 +54,7 @@ If you try to get the most out of Vaultwarden with minimal spending, you can set
 Having a domain isn’t necessary to host Vaultwarden, still, it makes sense to get one for better usability.
 
 <details>
-  <summary>Here’s what you need to keep in mind when picking the domain and its providers.</summary>
+  <summary><b>Here’s what you need to keep in mind when picking the domain and its providers.</b></summary>
 
   - **Domain name.** Human readability is a basic need, especially if you want to host Vaultwarden to manage passwords of subscriptions that the whole family uses. IP addresses aren’t as user friendly as domains.
   
@@ -76,7 +76,7 @@ After the purchase is complete, you're ready to connect the VPS to the domain.
 This process shouldn’t take more than a few minutes but keep in mind that some providers take 48 hours to process user requests to point a domain to a VPS. To do so, you need to add the VPS IP address to the domain’s DNS as an A record.
 
 <details>
-  <summary>In our case, the steps are the following:</summary>
+  <summary><b>In our case, the steps are the following:</b></summary>
 
   - Copy VPS IPv4 address from Hetzner account
   
