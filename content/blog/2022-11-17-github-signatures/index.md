@@ -4,7 +4,7 @@ date: "2022-11-17"
 seoTitle: "Please, Sign Your Commits on GitHub | dyrector.io"
 seoDescription: Commit signatures on GitHub help you validate your changes to the code to maintainers when you open a pull request. Here's how you can sign them.
 description: The same way you wouldn't download an application from an untrusted source, you wouldn't approve a pull request with unsigned commits on GitHub. Here's how you can sign your commits.
-tags: ["Open-source, GitHub"]
+tags: ["Open-source", "GitHub"]
 cover: "./dyrector-io-github-commit-signatures.png"
 header: "./dyrector-io-github-commit-signature-verification-gpg.png"
 coverAlt: "Blog post cover reading: It's not that hard to sign your commits in one of the 3 possible ways on GitHub, in commit signatures topic with illustration of a man standing before a lock."
