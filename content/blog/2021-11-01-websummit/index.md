@@ -4,7 +4,7 @@ seoTitle: 6 major takeaways from our first Web Summit | dyrector.io Blog
 seoDescription: Our first Web Summit was an amazing experience. Here's what we learned so you can impress investors with your idea in the next event.
 date: "2021-11-30"
 description: This year our crew attended one of the biggest tech conferences of the world, Web Summit for the first time to show investors how the dyrector.io release management platform can help software developer companies work more efficiently. In this post, we’ll summarize our experience so you can be prepared to an event you don’t want to miss out on.
-tags: ["websummit", "web", "tech", "conf"]
+tags: ["WebSummit", "Startup", "Conference"]
 cover:  "./dyrectorio-get-ready-for-Web-Summit.jpg"
 header: "./dyrectorio-Web-Summit-things-you-need-to-know-before-you-go.jpg"
 coverAlt: "It's worth taking your time to not only take a look at what to expect from Lisbon when you attend Web Summit but also to discover the city itself."

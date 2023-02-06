@@ -4,7 +4,7 @@ date: "2022-02-10"
 seoTitle: "Shift Left vs. Shift Right: When to Test Your Application?"
 seoDescription: Shift left and shift right are two of the major testing approaches the DevOps paradigm brought. But which one should you go with? Find out in our blog post.
 description: Testing and validating the functionality of your product has become a significant part of software development. Two of the biggest mindsets of testing are shift left and shift right. But which one should you choose? Learn more about them to figure it out.
-tags: ["testing"]
+tags: ["DevOps", "Testing"]
 cover: "./dyrectorio-when-to-test-application-shift-left-vs-shift-right.png"
 header: "./dyrectorio-shift-left-vs-shift-right-testing.png"
 coverAlt: "Shift left brings focus to the beginning of development while shift right tests functionality in production."

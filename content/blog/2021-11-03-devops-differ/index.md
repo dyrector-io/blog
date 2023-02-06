@@ -4,7 +4,7 @@ date: "2021-11-30"
 seoTitle: 3 Key Differences Between DevOps and traditional IT | dyrector.io Blog
 seoDescription: DevOps adoption is difficult but it has its advantages that make both decision makers and developers never go back to traditional IT operations.
 description: Adopting DevOps is a bold journey. There are many dangers and pitfalls on the road ahead but one thing's for sure – it pays off big time. Find out what to expect from DevOps compared to the traditional IT approach in this blogpost.
-tags: ["DevOps", "traditional IT"]
+tags: ["DevOps", "Software", "Development"]
 cover: "./dyrectorio-differences-between-DevOps-and-traditional-IT.jpeg"
 header: "./dyrectorio-DevOps-or-traditional-IT-operations.jpeg"
 coverAlt: "The DevOps way is hard to walk but it's the path toward efficient software development and operation, something traditional IT can hardly maintain."

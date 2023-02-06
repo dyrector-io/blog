@@ -4,7 +4,7 @@ date: "2023-02-03"
 seoTitle: "Setup Vaultwarden with dyrectorio using Docker | dyrectorio"
 seoDescription: Vaultwarden is a self-hosted implementation of Bitwarden. Here's how you can set it up from getting a VPS to deploying it with dyrectorio.
 description: Vaultwarden is a self-hosted implementation of Bitwarden. Here's how you can set it up from getting a VPS, purchasing a domain, and deploying it with dyrectorio.
-tags: ["Case Study"]
+tags: ["Platform", "Template"]
 cover: "./dyrectorio-vaultwarden-setup-cover.png"
 header: "./dyrectorio-vaultwarden-setup-header.png"
 coverAlt: Blog post cover reading Vaultwarden is a self-hosted implementation of Bitwarden. Learn how you can set it up with dyrectorio.

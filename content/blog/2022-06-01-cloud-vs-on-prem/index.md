@@ -4,7 +4,7 @@ date: "2022-06-14"
 seoTitle: "Don’t Burn Money on Cloud If You Don’t Need It | dyrector.io"
 seoDescription: Enterprises waste one-third of their investments on cloud technologies. This can be avoided by understanding whether you need on-premises servers or cloud.
 description: Don’t be fooled by marketers trying to sell you a buzzword – your business might never need cloud technologies. But how do you know if it’s time to invest in cloud migration or stick with on-premises servers?
-tags: ["Cloud"]
+tags: ["Cloud", "DevOps"]
 cover: "./dyrectorio-cloud-or-on-prem-server.jpg"
 header: "./dyrectorio-cloud-vs-on-premises.jpg"
 coverAlt: "Cloud and on-premises servers provide different benefits, which may not align with business needs. Before investing in either of them, make sure you plan ahead and understand your goals and needs."

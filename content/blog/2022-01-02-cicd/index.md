@@ -4,7 +4,7 @@ date: "2022-01-25"
 seoTitle: Pros and Unexpected Challenges of CI/CD
 seoDescription: Continuous integration and delivery, also known as CI/CD can boost your teams efficiency while reducing money. But it's not a one-and-done solution.
 description: Continuous integration and delivery is a substantial practice of DevOps methodology, even though only 38% of companies working under it have adopted CI/CD pipelines by 2020. Find out how it impacts efficiency and what challenges it may bring.
-tags: ["CI/CD"]
+tags: ["DevOps", "Deployment", "CI/CD"]
 cover: "./dyrectorio-cicd-pipelines-challenges-and-advantages.jpg"
 header: "./dyrectorio-continuous-interation-continuous-delivery-cicd-pipelines.jpg"
 coverAlt: "One of the most important advantages of CI/CD pipelines is that developers can focus on development instead of testing and deployment."

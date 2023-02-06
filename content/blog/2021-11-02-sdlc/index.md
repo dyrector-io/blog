@@ -4,7 +4,7 @@ date: "2021-11-30"
 seoTitle: SDLC & the Shortcut Release Management Tools Provide
 seoDescription: Find out how to breeze through software development lifecycle by deploying quality software with release management platforms like dyrector.io.
 description: Software development lifecycle is a hierarchic set of steps organizations can utilize to produce quality software time and cost efficiently. In this blogpost we introduce the stages of SDLC and detail how the dyrector.io release management platform can simplify the process.
-tags: ["sdlc", "development"]
+tags: ["Software", "Development", "Waterfall"]
 cover: "./dyrectorio-sdlc-software-development-lifecycle-release-management-tools-for-deployment-and-implementation.jpeg"
 header: "./dyrectorio-software-development-lifecycle-and-release-management-platforms.jpeg"
 coverAlt: "Software development lifecycle enables organizations to produce quality software on time. Relase management tools like dyrector.io can simplify deployment stages of the SDLC."

@@ -4,7 +4,7 @@ date: "2022-12-05"
 seoTitle: "The Ups & Downs of Working With Go | dyrector.io"
 seoDescription: Go has its benefits and disadvantages, but it's just the right programming language for dyrector.io. Here's what we learned about error handling & interfaces.
 description: Go is the right language for platforms interacting with other cloud technologies, such as dyrector.io. Find out what we've learned about error handling and other areas of the programming language on the rise.
-tags: ["Golang"]
+tags: ["Golang", "Cloud", "Kubernetes"]
 cover: "./dyrectorio-the-ups-and-downs-of-golang.png"
 header: "./dyrectorio-advantages-of-golang.png"
 coverAlt: "3d printed Go mascot, Gopher in front of Scottish landscape. Above it the title says: The Ups & Downs of Working With Go. Under that it says: Go is the programming language that delivers no empty promises for cloud applications and DevOps automation. It’s lightweight, the perfect match for parallel computing, and simple to use. We had to hop on the Golang bandwagon, as well."

@@ -4,7 +4,7 @@ date: "2021-12-14"
 seoTitle: What project management framework should your team use?
 seoDescription: Picking the fitting project management framework can make or break your team to meet your deadline. Find out which to choose.
 description: Projects can be messy. The more factors – I.e., stakeholders, technologies, etc. – are added to the equation – I.e., the project –, the more difficult it is to deliver the result, in our case, the software on time. Here’s how you can meet deadlines easier.
-tags: ["project management", "agile", "kanban", "scrum", "waterfall"]
+tags: ["ProjectManagement", "Software", "Development"]
 cover: "./dyrectorio-project-management-frameworks.jpg"
 header: "./dyrectorio-agile-kanban-scrum-waterfall-project-management-which-is-the-better-fit.jpg"
 coverAlt: "The right project management framework is nothing without the right personnel and tools to utilize it. In our blogpost you can learn tips and tricks to meet deadlines."

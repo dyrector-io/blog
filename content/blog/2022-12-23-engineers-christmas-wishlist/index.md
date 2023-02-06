@@ -4,7 +4,7 @@ date: "2022-12-23"
 seoTitle: "Engineer’s Christmas Wish List for 2022 | dyrector.io"
 seoDescription: Native Kubernetes MFA, unified registry gateways and Bun adoption made it to the wish list of dyrector.io's engineers in 2022.
 description: dyrector.io's engineers tallied up 6 releases in 2022. They definitely deserve a spot on Santa's nice list. Find out what they wish for this holiday season.
-tags: ["Engineering"]
+tags: ["Software", "Development"]
 cover: "./dyrector-io-engineers-christmas-wish-list-for-2022-cover.png"
 header: "./dyrector-io-engineers-christmas-wish-list-for-2022-header.png"
 coverAlt: Drawing of christmas tree with white ornaments.

@@ -4,7 +4,7 @@ date: "2022-09-01"
 seoTitle: "Products vs. Versions: How to Use Them on dyrector.io | dyrector.io"
 seoDescription: Products and Versions are very similar concepts within dyrector.io but one of the represents business needs and the other is on the technical side.
 description: While they're similar in some ways, Products and Versions serve different needs. Creating a version for your product allows you to distribute and test different variants of your Products.
-tags: ["Use cases"]
+tags: ["Platform"]
 cover: "./dyrector-io-products-versions-use-cases.png"
 header: "./dyrector-io-products-versions-best-practices.png"
 coverAlt: "Versions help you to distribute and test different variants of your Products."

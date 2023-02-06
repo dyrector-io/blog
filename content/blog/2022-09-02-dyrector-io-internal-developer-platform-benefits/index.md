@@ -4,7 +4,7 @@ date: "2022-09-15"
 seoTitle: "Your Wake Up Call to Use an IDP | dyrector.io"
 seoDescription: Internal Developer Platforms, or IDPs were the mirage to small to middle sized teams for years. That era is behind us. See how you'll benefit from using one.
 description: Internal Developer Platforms, or IDPs are the closest to a cheat code when it comes to DevOps. They bring tools and processes together to save you tons of time and headache. If you don't use one, you're missing out.
-tags: ["DevOps, Internal Developer Platforms"]
+tags: ["DevOps", "Platform Engineering"]
 cover: "./dyrector-io-idp-advantages.png"
 header: "./dyrector-io-internal-developer-platform.png"
 coverAlt: "Internal Developer Platforms (IDPs) are one of the most significant enablers of scalability for small to middle-sized teams."

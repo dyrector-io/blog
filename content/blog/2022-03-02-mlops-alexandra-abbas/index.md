@@ -4,7 +4,7 @@ date: "2022-03-09"
 seoTitle: "What’s the Difference Between DevOps & MLOps? - Interview With Alexandra Abbas | Blog | dyrector.io"
 seoDescription: MLOps extends the principles of DevOps by adding data science to the process. Alexandra Abbas of Wise gave her insight on what else is different.
 description: While some aspects of DevOps and MLOps are very similar, there are substantial differences between the two methodologies. Alexandra Abbas, Machine Learning Engineer at Wise described the disparities between them ranging from CI/CD to measurement of performance.
-tags: ["MLOps"]
+tags: ["MLOps", "Interview"]
 cover: "./dyrectorio-mlops-vs-devops.jpg"
 header: "./dyrectorio-mlops-data-science-devops.jpg"
 coverAlt: "Although data science lifecycle extends DevOps to MLOps, machine learning models are stored differently than regular images."

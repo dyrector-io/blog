@@ -4,7 +4,7 @@ date: "2022-10-13"
 seoTitle: "Top 5 Unmissable Open-Source Kubernetes Tools | dyrector.io"
 seoDescription: Kubernetes is the most popular, yet one of the most difficult technologies of container orchestration. Here are our favorite tools to help with K8s.
 description: Kubernetes is the most popular, yet one of the most difficult technologies of container orchestration. Here are our favorite tools to help with K8s from package management to local Kubernetes setup.
-tags: ["Kubernetes"]
+tags: ["Kubernetes", "OpenSource"]
 cover: "./dyrector-io-open-source-kubernetes-tools.png"
 header: "./dyrector-io-top-kubernetes-tools-in-2022.png"
 coverAlt: "Many teams miss out on Kubernetes because of its difficulties but there are many open-source tools that help with Kubernetes adoption."

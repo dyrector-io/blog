@@ -4,7 +4,7 @@ date: "2022-11-08"
 seoTitle: "Hacktoberfest Is the Ultimate Developer Experience Lesson | dyrector.io"
 seoDescription: Hacktoberfest is the time of the year when you give back to your open-source community. It turned out to be the most valuable Developer Experience lesson.
 description: Hacktoberfest was an incredible learning experience to us and our community. Here's what we learned about how to communicate with open-source developers.
-tags: ["Open-source"]
+tags: ["OpenSource", "GitHub"]
 cover: "./dyrector-io-hacktoberfest-open-source-developer-experience.png"
 header: "./dyrector-io-what-is-hacktoberfest.png"
 coverAlt: "Blog post cover image reading: Open-source is the ultimate developer experience lesson. Hacktoberfest logo underneath the text."

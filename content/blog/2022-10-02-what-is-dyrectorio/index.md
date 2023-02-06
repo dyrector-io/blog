@@ -4,7 +4,7 @@ date: "2022-10-27"
 seoTitle: "What's dyrector.io? The CD Platform Explained | dyrector.io"
 seoDescription: To developers, dyrector.io is like the cone they serve your fries in at McDonald's. Find out what else the CD platform is capable of.
 description: dyrector.io's value can be translated on the level of end-users, business and technology. This is a buzzword-free explanation of what the platform has to offer to everyone.
-tags: ["dyrector.io"]
+tags: ["Platform", "DevOps"]
 cover: "./dyrector-io-explained.png"
 header: "./dyrector-io-top-kubernetes-tools-in-2022.png"
 coverAlt: "3 levels of dyrector.io - The CD platform explained to a kid, a college graduate and an engineer."
