@@ -18,7 +18,7 @@ export function Cookie(): ReactElement {
       This website uses cookies to personalize content and analyse traffic in
       order to offer you a better experience. Fore more information check out
       the
-      <Link to="https://dyrectorio.com/policies/cookie-policy" target="_blank">
+      <Link to="https://dyrectorio.com/cookie-policy" target="_blank">
         {" "}
         coockie policy{" "}
       </Link>
