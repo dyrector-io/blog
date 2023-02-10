@@ -15,7 +15,7 @@ headerAlt: "Blog post header reading: Open-source is the ultimate developer expe
 
 ---
 
-Open-source software changes lives. It was no different to our community this Hacktoberfest either. We hardly imagined contributors would come to us but to our biggest surprise, we doubled the stars on our GitHub repository and the feedback is clear: the community loves dyrector.io.
+Open-source software changes lives. It was the same to our community this Hacktoberfest, too. We hardly imagined contributors would come to us but to our biggest surprise, we doubled the stars on our GitHub repository and the feedback is clear: the community loves dyrector.io.
 
 ## Support is Key for High Developer-Experience
 
