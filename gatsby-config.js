@@ -1,11 +1,23 @@
 module.exports = {
   siteMetadata: {
-    title: `Blog | dyrector.io`,
-    author: `dyrector.io`,
+    title: `Blog | blog.dyrectorio.com`,
+    author: `Team dyrectorio`,
     about: `DevOps is the art of constant technical and cultural improvements. Learn about tips and tricks from our DevOps experts to find out how to take the next step with your organization.`,
     description: `dyrector.io aims to simplify your release management. Check our blog to stay updated about DevOps and release management.`,
-    siteUrl: `https://dyrector.io`,
-    keywords: ["devops", "dev"],
+    siteUrl: `https://dyrectorio.com`,
+    keywords: [
+      "devops",
+      "dev",
+      "cloud",
+      "release management",
+      "release",
+      "management",
+      "devops blog",
+      "devops tips",
+      "devops tricks",
+      "devops tools",
+      "aws",
+    ], // Keywords for SEO
     image: "./dyrector_io_icon.jpg", // Path to the image placed in the 'static' folder, in the project's root directory.
     twitterUsername: "@dyrectorio",
   },
@@ -88,8 +100,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `blog.dyrector.io`,
-        short_name: `blog.dyrector.io`,
+        name: `blog.dyrectorio.com`,
+        short_name: `blog.dyrectorio.com`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#080638`,

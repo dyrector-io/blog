@@ -26,7 +26,7 @@ const Layout: React.FunctionComponent<LayoutProps> = ({ children }) => {
         {children}
 
         <Footer>
-          <a href="https://dyrector.io"> Made with ❤️ by dyrector.io team</a>
+          <a href="https://dyrectorio.com"> Made with ❤️ by dyrector.io team</a>
         </Footer>
         <ScrollToTop
           showUnder={300}

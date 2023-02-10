@@ -21,13 +21,13 @@ ChatOps is DevOps done via chat applications. Often it gets confused with plain 
 
 Alerts and notifications are critical in the life of a DevOps team. How else would they know in an instant if something happened that needs to be addressed to avoid downtime and user satisfaction plummeting?
 
-There are use cases when notifications are extremely helpful. Like getting notifications of status changes through [CI/CD pipelines](https://blog.dyrector.io/2022-01-02-cicd/), nodes shutting down or new nodes scaling your infrastructure. But they only cover one-way communication. Your teammates see the notification, then go on to do the work that needs to be done outside of the chat platform where they received the message.
+There are use cases when notifications are extremely helpful. Like getting notifications of status changes through [CI/CD pipelines](https://blog.dyrectorio.com/2022-01-02-cicd/), nodes shutting down or new nodes scaling your infrastructure. But they only cover one-way communication. Your teammates see the notification, then go on to do the work that needs to be done outside of the chat platform where they received the message.
 
 ChatOps enables teams to get things done in the chat platform where they got the alert without opening any other app, terminal or browser.
 
 ## ChatOps Capabilities
 
-Demand for ChatOps emerged due to the waste-cutting nature of [DevOps](https://blog.dyrector.io/2021-11-03-devops-differ/). Since collaboration is a key factor of DevOps, it made sense to bring some processes to one place where teammates already work with each other.
+Demand for ChatOps emerged due to the waste-cutting nature of [DevOps](https://blog.dyrectorio.com/2021-11-03-devops-differ/). Since collaboration is a key factor of DevOps, it made sense to bring some processes to one place where teammates already work with each other.
 
 While notifications and alerts are useful, organizations didn’t stop at the ground floor. Consider simple things like e-mails; they turned obsolete in intra-team communication. First of all, wiping out untraceable e-mail threads, the appearance of chat rooms where communication-driven operation happens increased the transparency of operations. Turning messaging platforms into source-of-truth accelerates onboarding processes, as well.
 
@@ -35,7 +35,7 @@ High-level integrations bring even more to the table. For example, if an outage 
 
 The point of it all is that people don’t need to log in and work on 90+ Chrome tabs. But this raises the challenge of reliable and consistent monitoring.
 
-## Audit Logging, The Challenging Part of ChatOps  
+## Audit Logging, The Challenging Part of ChatOps
 
 Good audit logging is the bedrock of ChatOps done right. Without it, the integrations won’t make your team’s life easier because it won’t be able to deliver relevant data. There are three requirements of proper audit logging:
 

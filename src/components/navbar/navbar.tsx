@@ -22,8 +22,8 @@ type NavbarProps = {
 
 const MenuItems = [
   {
-    label: "Visit dyrector.io",
-    url: "https://dyrector.io",
+    label: "Visit dyrectorio.com",
+    url: "https://dyrectorio.com",
   },
 ];
 

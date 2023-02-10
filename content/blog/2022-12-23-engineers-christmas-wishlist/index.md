@@ -43,7 +43,7 @@ Our web developers know the struggles of QA approaching them with visual glitche
 
 ## Use compiled languages instead of interpreted ones
 
-Our team is heavily divided on this matter. Recently we came out with a **[blog post](https://blog.dyrector.io/2022-12-05-ups-and-downs-of-golang/)** praising Go, while offering solutions and workarounds of its differences from other languages.
+Our team is heavily divided on this matter. Recently we came out with a **[blog post](https://blog.dyrectorio.com/2022-12-05-ups-and-downs-of-golang/)** praising Go, while offering solutions and workarounds of its differences from other languages.
 
 Both compiled and interpreted languages offer advantages. Compiled ones are generally faster and translating them doesn’t require any resources. At the same time, they lack the flexibility interpreted languages provide.
 

@@ -29,7 +29,7 @@ Cloud technology is one of the latest buzzwords that made their way into public 
 
 Now that we got this out of our way, let’s see how you can decide if you need cloud or on-premises will do the job for you.
 
-## 3 factors to consider before you make the decision  
+## 3 factors to consider before you make the decision
 
 ### #1 Your budget
 
@@ -65,7 +65,7 @@ This is useful for organizations operating in highly regulated industries. Where
 
 Less specific use cases can be covered by hybrid infrastructures. With them, you can run redundant workloads, which is useful to reduce downtime and create continuous backups without taking recovery snapshots.
 
-Another example is local hosting of your CI – [continuous integration](https://blog.dyrector.io/2022-01-02-cicd/). Hosting development, testing and staging environments on-prem makes your CI resistant to internet outages. Or you can use it the other way around: store on cloud to have a highly available development environment for international teams. In the meantime, you have your production environment on-premises to adhere to data security regulations or other customer needs.
+Another example is local hosting of your CI – [continuous integration](https://blog.dyrectorio.com/2022-01-02-cicd/). Hosting development, testing and staging environments on-prem makes your CI resistant to internet outages. Or you can use it the other way around: store on cloud to have a highly available development environment for international teams. In the meantime, you have your production environment on-premises to adhere to data security regulations or other customer needs.
 
 We recommend hybrid environments for organizations that have the resources to configure and maintain this type of infrastructure.
 
