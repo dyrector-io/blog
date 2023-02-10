@@ -4,7 +4,7 @@ date: "2022-07-20"
 seoTitle: "Hack Your Processes With Internal Developer Platforms | dyrector.io"
 seoDescription: Internal Developer Platforms are one of the most powerful tools of DevOps teams. They enable independency while increasing collaboration. Learn more about them.
 description: Internal Developer Platforms create an interface of collaboration and boost independency to simplify processes. Here's how your team can utilize them efficiently.
-tags: ["DevOps", "Platform Engineering"]
+tags: ["DevOps", "PlatformEngineering"]
 cover: "./dyrectorio-internal-developer-platforms-idp-abstraction-layer.png"
 header: "./dyrectorio-internal-developer-platforms-devops.png"
 coverAlt: "Internal Developer Platforms create balance between collaboration and independency by allowing non-specialists to contribute without deep understanding."

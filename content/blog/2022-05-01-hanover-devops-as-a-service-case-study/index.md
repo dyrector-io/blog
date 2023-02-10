@@ -4,7 +4,7 @@ date: "2022-05-04"
 seoTitle: "Case Study: DevOps Services for Hanover Displays' Multitenant Applications"
 seoDescription: Hanover is one of the largest passenger information manufacturers. Read how dyrector.io's DevOps services helped them to maintain and secure their applications.
 description: As one of the biggest passenger information designers and manufacturers, Hanover Displays required DevOps services to keep their business applications secure and maintainable on the cloud. Find out how we helped them achieve that.
-tags: ["Case Study", "DevOps"]
+tags: ["CaseStudy", "DevOps"]
 cover: "./dyrectorio-hanover-devops-service-case-study.png"
 header: "./dyrectorio-hanover-cloud-devops-case-study.png"
 coverAlt: "Hanover Displays needed DevOps services to be able to improve their applications' functionality and security to their list of clients in more than 75 countries."
