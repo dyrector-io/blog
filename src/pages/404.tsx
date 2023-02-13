@@ -14,7 +14,10 @@ const NotFoundPage = (props: any) => {
       <SEO title="404: Not Found" />
       <NotFound />
       <Footer>
-        <a href="https://dyrector.io"> Made with ❤️ by dyrector.io team</a>
+        <a href="https://dyrectorio.com">
+          {" "}
+          Made with ❤️ by dyrectorio.com team
+        </a>
       </Footer>
     </>
   );

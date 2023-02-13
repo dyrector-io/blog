@@ -43,7 +43,7 @@ For Kubernetes, you can use kube-monkey, and for Docker, Pumba is the tool you�
 
 ## #2 Talk to Your Team
 
-As a DevOps Engineer, you can become your own QA staff. Go to your teammates and **[ask them](https://blog.dyrector.io/2022-03-03-devops-habits/)** about the automations you created for them or the ones they wish you made them. Look for the problems they experience using them and see if you can provide a fix.
+As a DevOps Engineer, you can become your own QA staff. Go to your teammates and **[ask them](https://blog.dyrectorio.com/2022-03-03-devops-habits/)** about the automations you created for them or the ones they wish you made them. Look for the problems they experience using them and see if you can provide a fix.
 
 One way to discover patterns of repetitive behavior is Extreme Programming (XP). Solve it as an automation engineer.
 
@@ -55,15 +55,15 @@ Also, by going through your docs, you’ll get a fresher perspective on your inf
 
 ## #4 ChatOps
 
-Creating **[ChatOps](https://blog.dyrector.io/2022-07-01-chatops/)** integrations is another way to get yourself occupied while creating even more free time. You might already have chat notifications worked out, automated Jira tickets and everything but executing commands via chat will spare you the trouble of opening multiple different apps and terminals.
+Creating **[ChatOps](https://blog.dyrectorio.com/2022-07-01-chatops/)** integrations is another way to get yourself occupied while creating even more free time. You might already have chat notifications worked out, automated Jira tickets and everything but executing commands via chat will spare you the trouble of opening multiple different apps and terminals.
 
 ## #5 Cost Optimization
 
-Costs can be all over the place when you operate on the **[cloud](https://blog.dyrector.io/2022-06-01-cloud-vs-on-prem/)**. It makes sense to check rates and usage time to time. Another thing you can do is to automate cost optimization. This way you outsource shutting down unnecessary nodes and instances, which can be expected tasks but it’s a lot more comfortable to just stop caring about some things, amirite?
+Costs can be all over the place when you operate on the **[cloud](https://blog.dyrectorio.com/2022-06-01-cloud-vs-on-prem/)**. It makes sense to check rates and usage time to time. Another thing you can do is to automate cost optimization. This way you outsource shutting down unnecessary nodes and instances, which can be expected tasks but it’s a lot more comfortable to just stop caring about some things, amirite?
 
 ## #6 Analyze Your Metrics
 
-If we had to guess, you already have Prometheus and Grafana or similar services set up to track your **[metrics](https://blog.dyrector.io/2022-04-01-devops-metrics/)**. Very good! When was the last time you actually paid attention to the data they gathered?
+If we had to guess, you already have Prometheus and Grafana or similar services set up to track your **[metrics](https://blog.dyrectorio.com/2022-04-01-devops-metrics/)**. Very good! When was the last time you actually paid attention to the data they gathered?
 
 Check the numbers and see if there’s any room for improvement. Is there any metric that got worse over time? Find out the reason and look for fixes!
 
@@ -71,7 +71,7 @@ Check the numbers and see if there’s any room for improvement. Is there any me
 
 You can innovate as part of an organization. If you have an idea on how to reinvent some processes or simplify some tasks, try to get management on board to support you making it for your teammates.
 
-This doesn’t have to be anything extreme. For example, you can make in-house alternatives to some paid services you already use. If you really want to get crazy with tinkering, look into **[platform engineering](https://blog.dyrector.io/2022-07-02-internal-developer-platforms/)**.
+This doesn’t have to be anything extreme. For example, you can make in-house alternatives to some paid services you already use. If you really want to get crazy with tinkering, look into **[platform engineering](https://blog.dyrectorio.com/2022-07-02-internal-developer-platforms/)**.
 
 ## #8 Educate Yourself
 

@@ -25,11 +25,11 @@ DevOps by nature is constant improvement towards simplifying processes by increa
 
 - **Collaboration** – DevOps brings together departments with conflicting goals. While development's definition of success is bringing change to the product, operation is deemed efficient when the product is stable. They need common KPIs to work together as a team, instead of striving for goals that negate each other.
 
-- **Finances** – DevOps done right is a cost-effective substitute for [traditional IT practices](https://blog.dyrector.io/2021-11-03-devops-differ/). There’s still a possibility of overspending on tools, staff and providers that enable provisions on the cloud. Measuring performance can give your organization an idea on optimal spending.
+- **Finances** – DevOps done right is a cost-effective substitute for [traditional IT practices](https://blog.dyrectorio.com/2021-11-03-devops-differ/). There’s still a possibility of overspending on tools, staff and providers that enable provisions on the cloud. Measuring performance can give your organization an idea on optimal spending.
 
 ## Traits of Right DevOps Metrics
 
-The most significant expectation from tracking DevOps performance is that it shouldn’t be an engine of dysfunctionality and tension between teammates. Remember, [both development and operation work towards the same goal: bringing value to the customer](https://blog.dyrector.io/2022-03-03-devops-habits/). Metrics should help them finding out how to do that efficiently. There are basic requirements of metrics to find out how to work efficiently.
+The most significant expectation from tracking DevOps performance is that it shouldn’t be an engine of dysfunctionality and tension between teammates. Remember, [both development and operation work towards the same goal: bringing value to the customer](https://blog.dyrectorio.com/2022-03-03-devops-habits/). Metrics should help them finding out how to do that efficiently. There are basic requirements of metrics to find out how to work efficiently.
 
 - **Relevant** – Not all DevOps metrics are equally important to different organizations. Relevance differs based on whether the software is a B2B or a B2C application, for example.
 
@@ -37,13 +37,13 @@ The most significant expectation from tracking DevOps performance is that it sho
 
 - **Measurable** – DevOps already utilises automations. It's appropriate to include measurements into automations to get constant and immediate feedback on performance.
 
-## 3 Critical DevOps Metrics  
+## 3 Critical DevOps Metrics
 
 Based on these traits, it makes sense to define co-dependent metrics. After all, our goal is to keep track of the performance of teams that have naturally different definitions of done and success.
 
-- **Lead time for changes** – This metric reflects on how fast the code moves from a side-branch to a deployable state. Normally, before reaching a deployable quality, [the code runs through a bunch of tests](https://blog.dyrector.io/2022-02-01-left-vs-right/) to make sure it won’t break the application. Lead time for changes measures how much time it takes to run these tests. This rate should rather be counted by hours instead of days or weeks.
+- **Lead time for changes** – This metric reflects on how fast the code moves from a side-branch to a deployable state. Normally, before reaching a deployable quality, [the code runs through a bunch of tests](https://blog.dyrectorio.com/2022-02-01-left-vs-right/) to make sure it won’t break the application. Lead time for changes measures how much time it takes to run these tests. This rate should rather be counted by hours instead of days or weeks.
 
-- **Change fail rate** – Although the new piece of code is observed by automated tests, there’s a chance the change in the application causes downtime in production for various reasons. Shift right testing approach intends to avoid this from occurring but there’s no silver bullet solution to completely avoid change failures. It makes sense to track how often [deployments](https://blog.dyrector.io/2022-01-01-software-deployment/) to production cause downtime, not counting pushing the software to testing and staging environments. Ideally, the number of change fail rate should be below 15%.
+- **Change fail rate** – Although the new piece of code is observed by automated tests, there’s a chance the change in the application causes downtime in production for various reasons. Shift right testing approach intends to avoid this from occurring but there’s no silver bullet solution to completely avoid change failures. It makes sense to track how often [deployments](https://blog.dyrectorio.com/2022-01-01-software-deployment/) to production cause downtime, not counting pushing the software to testing and staging environments. Ideally, the number of change fail rate should be below 15%.
 
 - **Mean time to recovery** – Outages present the greatest threat to customer satisfaction. Therefore, measuring how much time it takes to restore service is one of the critical metrics teams should pay attention to. This can be significantly reduced by using tools to roll back the failed version from production and instead give access to the last used, properly functioning version while the problem isn’t solved. Downtime should never be longer than an hour.
 
@@ -55,7 +55,7 @@ While Prometheus monitors application status from any aspect, Grafana can visual
 
 ## Summary
 
-Your team is already [automating](https://blog.dyrector.io/2022-01-02-cicd/) as many steps as possible to exclude human factor. It makes a lot of sense to measure the automations’ performance to see what else needs to be improved. Before picking the right metrics, your team should define what they plan to do with the insight they’ll gain from them. And then extend the automations by creating detailed logs to understand your system’s efficiency and how to improve it. These DevOps metrics will certainly help you with it.
+Your team is already [automating](https://blog.dyrectorio.com/2022-01-02-cicd/) as many steps as possible to exclude human factor. It makes a lot of sense to measure the automations’ performance to see what else needs to be improved. Before picking the right metrics, your team should define what they plan to do with the insight they’ll gain from them. And then extend the automations by creating detailed logs to understand your system’s efficiency and how to improve it. These DevOps metrics will certainly help you with it.
 
 ---
 

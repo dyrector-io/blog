@@ -32,15 +32,15 @@ A trained model is ready to be deployed for serving prediction requests. A deplo
 
 **What is the difference between DevOps and MLOps?**
 
-[DevOps](https://blog.dyrector.io/2022-03-01-devops-as-a-service/) covers practices that aim to provide continuous delivery along with high software quality while MLOps does the same on a high level, but it focuses on the lifecycle of ML models rather than traditional software systems. Think of MLOps practices as a subset of DevOps practices that specialize in the continuous delivery of ML models.
+[DevOps](https://blog.dyrectorio.com/2022-03-01-devops-as-a-service/) covers practices that aim to provide continuous delivery along with high software quality while MLOps does the same on a high level, but it focuses on the lifecycle of ML models rather than traditional software systems. Think of MLOps practices as a subset of DevOps practices that specialize in the continuous delivery of ML models.
 
 **How does this iterative approach extend into the next cycle?**
 
-After a model is released for serving, another problem emerges.  Usually the data that the model was trained on is not static, new users sign up, they upload new images to our website and so on. Data is changing, therefore the models have to be re-trained otherwise their performance would degrade. This creates the cyclic nature of MLOps and DSLC.
+After a model is released for serving, another problem emerges. Usually the data that the model was trained on is not static, new users sign up, they upload new images to our website and so on. Data is changing, therefore the models have to be re-trained otherwise their performance would degrade. This creates the cyclic nature of MLOps and DSLC.
 
 **How do you measure efficiency over time?**
 
-We use different tools to measure the performance of different parts of the DSLC. Data scientists use accuracy metrics to measure the performance of ML models during experimentation and training. Model artifacts along with their metadata including training accuracy are versioned and monitored using MLflow. Performance of deployed models is monitored real-time using a separate monitoring service that is able to detect shifts in the data distribution. 
+We use different tools to measure the performance of different parts of the DSLC. Data scientists use accuracy metrics to measure the performance of ML models during experimentation and training. Model artifacts along with their metadata including training accuracy are versioned and monitored using MLflow. Performance of deployed models is monitored real-time using a separate monitoring service that is able to detect shifts in the data distribution.
 
 **How does CI/CD work in MLOps?**
 
@@ -48,7 +48,7 @@ Machine learning models are usually very large files, several gigabytes. These f
 
 In order to serve models that are able to accept requests, one needs to build a serving service that can read the model object from storage and load it for serving. This service has its own CI/CD pipeline that is similar to a traditional pipeline. It usually runs the tests, builds the service and deploys the changes.
 
-This serving service can be versioned in Git. Once the service source code is changed or a new model file is added to the service then the CI/CD would trigger a new Docker image build. Once this image is built, it can be [deployed](https://blog.dyrector.io/2022-01-01-software-deployment/) in Kubernetes or similar infrastructure platforms.
+This serving service can be versioned in Git. Once the service source code is changed or a new model file is added to the service then the CI/CD would trigger a new Docker image build. Once this image is built, it can be [deployed](https://blog.dyrectorio.com/2022-01-01-software-deployment/) in Kubernetes or similar infrastructure platforms.
 
 **How do you treat documentation in MLOps?**
 

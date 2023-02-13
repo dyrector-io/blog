@@ -21,16 +21,15 @@ Before you can do anything, you’ll need a VPS where you’ll host Vaultwarden.
 
 <details>
 <summary><b>When looking for a VPS provider to host Vaultwarden, you need to consider several factors:</b></summary>
-  
+
 - **Resources.** Vaultwarden isn’t a resource demanding application. According to a closed **[issue](https://github.com/dani-garcia/vaultwarden/issues/277)** from 2018 on the project’s GitHub repo, the stack can basically run on any hardware.
 
 - **Location.** To reduce latency and get the most out of the VPS, choose a data center closest to your location.
-  
 - **Support.** Preferably the provider offers 24/7 customer support. It’s always useful if the provider has forums and other places where users can look for solutions in case they bump into difficulties.
-  
 - **Features.** Backups and security options might be useful when hosting Vaultwarden.
 
 Some providers offer discounts based on how long you’re signing up for their offers. Some also offer free setup fee in case you sign up for a longer period of time.
+
 </details>
 
 For this case study, we used Hetzner.
@@ -56,15 +55,15 @@ Having a domain isn’t necessary to host Vaultwarden, still, it makes sense to 
 <details>
   <summary><b>Here’s what you need to keep in mind when picking the domain and its providers.</b></summary>
 
-  - **Domain name.** Human readability is a basic need, especially if you want to host Vaultwarden to manage passwords of subscriptions that the whole family uses. IP addresses aren’t as user friendly as domains.
-  
-  - **Extension.** Some extensions are pricier than others. For self-hosted Vaultwarden, it’s unnecessary to go fancy.
-  
-  - **Support.** Again, 24/7 availability is preferable with additional resources users can check to solve problems.
-  
-  - **Privacy.** Purchasers' personal data can be checked out on WHOIS. If you want to avoid this, you can redact it at the provider to protect personal data.
-  
-  - **DNS.** This is required to point the domain to VPS.
+- **Domain name.** Human readability is a basic need, especially if you want to host Vaultwarden to manage passwords of subscriptions that the whole family uses. IP addresses aren’t as user friendly as domains.
+
+- **Extension.** Some extensions are pricier than others. For self-hosted Vaultwarden, it’s unnecessary to go fancy.
+
+- **Support.** Again, 24/7 availability is preferable with additional resources users can check to solve problems.
+
+- **Privacy.** Purchasers' personal data can be checked out on WHOIS. If you want to avoid this, you can redact it at the provider to protect personal data.
+
+- **DNS.** This is required to point the domain to VPS.
 </details>
 
 We used GoDaddy to purchase a domain. Select the domain you prefer. With GoDaddy’s domain protection service, it shouldn’t cost more than $11-12 a month if you don’t need an email service.
@@ -78,11 +77,11 @@ This process shouldn’t take more than a few minutes but keep in mind that some
 <details>
   <summary><b>In our case, the steps are the following:</b></summary>
 
-  - Copy VPS IPv4 address from Hetzner account
-  
-  - Head to GoDaddy, and delete all removable record from the domain’s DNS records
-  
-  - Create a new A record, and paste the IPv4 address into it
+- Copy VPS IPv4 address from Hetzner account
+
+- Head to GoDaddy, and delete all removable record from the domain’s DNS records
+
+- Create a new A record, and paste the IPv4 address into it
 </details>
 
 There, our VPS is now ready to host Vaultwarden.
