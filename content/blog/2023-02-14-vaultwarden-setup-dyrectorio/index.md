@@ -47,7 +47,7 @@ Now that the VPS is purchased, time to get a domain to easily access Vaultwarden
 
 ### Free alternatives to Hetzner VPS
 
-If you try to get the most out of Vaultwarden with minimal spending, you can set up free-tier AWS or Cloudflare accounts. You get minimal hardware which should be sufficient to run Docker and Vaultwarden.
+If you try to get the most out of Vaultwarden with minimal costs, you can set up free-tier AWS or Cloudflare accounts. You get minimal hardware which should be sufficient to run Docker and Vaultwarden.
 
 ## Step 2: Get yourself a domain
 
