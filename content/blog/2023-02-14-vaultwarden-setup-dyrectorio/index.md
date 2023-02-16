@@ -113,7 +113,7 @@ Click `Add` to save Vaultwarden as a product.
 Click on the gear icon next to Vaultwarden's image. On the configuration screen specify the following variables with your domain:
 
 - `name`, `host` under Ingress section. `name` is the first part of the domain, `host` is the second. Example: if your domain is `vault.example.com`, then `name = vault`, `host = example.com`.
-- `DOMAIN` under Environments section. Example: if your domain is `vault.example.com`, then `domain = vault.example.com`.
+- `DOMAIN` under Environments section. Example: if your domain is `vault.example.com`, then `DOMAIN` key will be `vault.example.com`.
 
 When you got the domain configured, click `Back` to head back to Vaultwarden's overview.
 
