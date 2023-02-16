@@ -133,7 +133,7 @@ After the deployment status turns successful...
 
 ![dyrector-io-vaultwarden-template-06.png](./dyrector-io-vaultwarden-template-06.png)
 
-Enter domain in the URL bar and enjoy your self-hosted Vaultwarden, as seen below.
+Traefik will take up to 5 minutes to do its magic. Enter domain in the URL bar and enjoy your self-hosted Vaultwarden, as seen below.
 
 ![dyrector-io-vaultwarden-template-07.png](./dyrector-io-vaultwarden-template-07.png)
 
