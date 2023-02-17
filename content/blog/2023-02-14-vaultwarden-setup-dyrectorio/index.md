@@ -90,6 +90,10 @@ There, our VPS is now ready to host Vaultwarden.
 
 To be able to set up Vaultwarden on your VPS, you need to define it as a node on dyrectorio. You can access dyrectorio beta **[here](https://app.dyrectorio.com/auth/login)**. After signing up to the platform, it goes as the steps described below. More details about node setup are **[here](https://docs.dyrector.io/tutorials/register-your-node)**, but below you can see the steps of the process.
 
+Check out the whole process in the video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mAIf0nA_8Sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 - Add a new node by selecting the `Node` panel on the left side and clicking on the `Add` button in the top right. Add a name and save the node.
 
 - Select Docker Host as the technology of the agent that’ll be set up on your VPS. By clicking on the Generate script button, the platform will generate a one-liner you can use in the VPS’ terminal to install the agent. More details about Nodes and dyrectorio agents are documented **[here](https://docs.dyrector.io/tutorials/register-your-node)**. Use the toggle next to `Install traefik`, which will enable you to deploy to subdomains pointing to your VPS.
