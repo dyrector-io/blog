@@ -102,7 +102,7 @@ Check out the whole process in the video below:
 
 The only remaining step is to deploy Vaultwarden to the VPS.
 
-## Step 5: Deploy Vaultwarden to your VPS in dyrectorio
+## Step 5: Deploy Vaultwarden to your VPS using dyrectorio
 
 Click on `Templates` on the left and select Vaultwarden from the templates listed by clicking `Add`.
 
