@@ -11,7 +11,7 @@ coverAlt: Blog post cover reading Self-hosting is an increasingly preferred way 
 headerAlt: Blog post header reading A quick introduction to self-hosting.
 ---
 
-**Self-hosting is an increasingly preferred way of using software compared to SaaS solutions. It’s cheaper, it gives control to engineers, what’s there not to like? Here’s a brief intro to the practice, the 0th issue of dyrectorio blog’s self-hosting pieces.**
+**Self-hosting is an increasingly preferred way of using software compared to SaaS solutions. It’s cheaper, it gives control to engineers, what’s there not to like? Here’s a brief intro to the practice, the 0th issue of dyrectorio blog’s self-hosting series.**
 
 ---
 
@@ -70,6 +70,10 @@ This process shouldn’t take more than a few minutes but keep in mind that some
 ## Summary
 
 Self-hosting can serve different purposes, but the advantages and the challenges remain similar. It makes sense to consider the ROI of self-hosting induced maintenance costs compared to SaaS-fees that you’re trying to eliminate.
+
+## Parts of this series
+
+Part 1: **[Self-Hosting Event Scheduler Cal.com](https://blog.dyrector.io/2023-03-08-self-hosting-event-schedule-calcom-dyrectorio/)**
 
 ---
 

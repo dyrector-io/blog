@@ -1,7 +1,7 @@
 ---
 title: "Self-Hosting Event Scheduler Calendly Alternative Cal.com With dyrectorio"
 date: "2023-03-08"
-seoTitle: "Self-Hosting Event Scheduler With dyrectorio | dyrectorio"
+seoTitle: "Self-Hosting Event Scheduler Cal.com | dyrectorio"
 seoDescription: Self-hosting an event scheduler, such as Cal.com, is a shortcut towards flexibility. Learn how you can self-host the Calendly alternative.
 description: Self-hosting an event scheduler, such as Cal.com, is a shortcut towards flexibility. Learn how you can self-host the Calendly alternative.
 tags: ["SelfHosting", "OpenSource", "Template"]
