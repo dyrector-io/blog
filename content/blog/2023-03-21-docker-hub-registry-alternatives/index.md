@@ -11,6 +11,8 @@ coverAlt: Blog post cover reading Docker announced the end of Free Teams, which 
 headerAlt: Blog post header reading Time to Part Ways with Docker Hub.
 ---
 
+_Disclaimer: This blog post was published on 2023-03-21. Since then Docker announced they no longer plan to terminate Free Teams Docker Hub plans._
+
 **Open-source community was caught off guard by Docker’s announcement to discontinue the Free Teams plan. Considering Docker’s merits in the open-source & self-hosted scene, it’s the end of an era. But Docker was never the only player in the field, and there are better alternatives.**
 
 ---
