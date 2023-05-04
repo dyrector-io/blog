@@ -27,23 +27,26 @@ After working with the 4 engineers, one of them, Bence, stayed on our team to de
 
 ## Culture at dyrector.io
 
-Most of the team is still in their 20s, which allows us to spend some time outside of work connecting with each other after an exhausting day working on a new feature or beginning the day with breakfast at the office. While in-person availability isn’t required, the team is still on-site 99% of the time. It's just easier to communicate while everyone's in town.
+Most of the team is still in their 20s, which allows us to spend some time outside of work connecting with each other after an exhausting day working on a new feature or to begin the day with breakfast at the office. While in-person availability isn’t required, the team is still on-site 99% of the time. It's just easier to communicate while everyone's in town.
 
 For remote conversations, we prefer to use Discord, and task management takes place on Jira.
 
 We encourage proactivity and prompt solutions to emerging challenges. We believe that even if you can't do something about a problem, the least you can do is let others know so they can react to the problem. We believe that working out solutions together helps the team bond over hard times. It's easier to do when the entire team takes ownership of the project.
 
-We take time to celebrate success and pick each other up when things don't go our way. This means we celebrate things like birthdays, graduations, sports achievements like Lake Balaton Cross Swimming, marathons together, and speak our minds when someone needs to vent because they're going through some personal things, or one of us made a mistake and they feel down about it. It's alright to fail at dyrector.io, but we can't accept not trying, Michael Jordan style. Part of that deal is that we'll aim to solve any problem that occurs.
+We take time to celebrate success and pick each other up when things don't go our way. This means we celebrate things like birthdays, graduations, sports achievements like Lake Balaton Cross Swimming, marathons together, and speak our minds when someone needs to vent because they're going through some personal things, or one of us made a mistake and they feel down about it.
+> It's alright to fail at dyrector.io, but we can't accept not trying, Michael Jordan style.
+
+Part of that deal is that we'll aim to solve any problem that occurs.
 
 ## Technologies we like
 
-dyrector.io has two agents, one for Docker, and another for Kubernetes, both written in Golang. Why we chose Golang is explained here. We developed the platform’s UI in React.js, and Next.js. Backend is in Node.js, and Nest.js. The platform communicates with those agents in gRPC with TLS encryption. Data is managed in a PostgreSQL database mapped with Prisma. And of course, we need to mention our coffee maker that gives us enough fuel to be there for breaks and concentrated work, too.
+dyrector.io has two agents, one for Docker, and another for Kubernetes, both written in Golang. Why we chose Golang is explained **[here](https://blog.dyrector.io/2022-12-05-ups-and-downs-of-golang/)**. We developed the platform’s UI in React.js, and Next.js. Backend is in Node.js, and Nest.js. The platform communicates with those agents in gRPC with TLS encryption. Data is managed in a PostgreSQL database mapped with Prisma. And of course, we need to mention our coffee maker that gives us enough fuel for breaks and concentrated work, too.
 
 ## How we work
 
 Our approach to getting things done mostly resembles agile/SCRUM methodology, but we don't live and die by it. We don't have sprints all the time, but when there's a pile of things to get done, mainly shipping new features, we tend to focus more on the practice, having daily standups to maintain sync between teammates, and so on.
 
-As of the writing of this blog post, we're approaching a heavy refactoring cycle of the code. During these times, we don't have as many frequent meetings as earlier because making the software more efficient takes less collaborative effort in our case. Our all-team meetings are reduced to weekly syncs during times like this. Recently, most of our focus was on setting up the platform for a stable user experience, which is a demand created by ourselves. The next big release of dyrector.io, 0.4.0, won't be anything shiny compared to previous releases, except it'll provide consistency for our alpha and self-managed users.
+As of the writing of this blog post, we're approaching a heavy refactoring cycle of the code. During these times, we don't have as many frequent meetings because making the software more efficient takes less collaborative effort in our case. Our all-team meetings are reduced to weekly syncs during times like this. Recently, most of our focus was on setting up the platform for a stable user experience, which is a demand created by ourselves. The next big release of dyrector.io, 0.4.0, won't be anything shiny compared to previous releases, except it'll provide consistency for our alpha and self-managed users.
 
 ---
 
