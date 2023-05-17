@@ -4,7 +4,7 @@ date: "2023-05-16"
 seoTitle: "Support The Development of dyrector.io | dyrector.io"
 seoDescription: Sponsor the development of dyrector.io on Open Collective. 100% of your donations will be spent on the improvement of the platform.
 description: Sponsor the development of dyrector.io on Open Collective. 100% of your donations will be spent on the improvement of the platform.
-tags: ["Startup", "Platform", "Team"]
+tags: ["Startup", "OpenSource", "Team"]
 cover: "./dyrector-io-support-us-cover.png"
 header: "./dyrector-io-support-us-header.png"
 coverAlt: Drawn picture of a group of people in a huddle.
@@ -36,7 +36,7 @@ No node restrictions, no deployment limits, just free use as if you’re using t
 
 ## dyrector.io is a 100% bootstrapped project
 
-We’re in the Microsoft for Startups partnership program, which allows us to use Azure to host the platform, the landing page, and even this blog. Other than that, we’re not connected to any cloud providers or projects to redistribute their products. The reason behind avoiding all kinds of ties to these providers is simple: we’d prefer to offer container management regardless of the technologies you use. On the side, we work for organizations as Cloud consultants and incorporate the platform and its functions into our workflows. We described how we work, the team dynamics and who we are in the previous blog post.
+We’re in the Microsoft for Startups partnership program, which allows us to use Azure to host the platform, the landing page, and even this blog. Other than that, we’re not connected to any cloud providers or projects to redistribute their products. The reason behind avoiding all kinds of ties to these providers is simple: we’d prefer to offer container management regardless of the technologies you use. On the side, we work for organizations as Cloud consultants and incorporate the platform and its functions into our workflows. We described how we work, the team dynamics and who we are in the previous **[blog post](https://blog.dyrector.io/2023-05-05-dyrectorio-who-we-are/)**.
 
 Bootstrapping has allowed us to shape the platform entirely to our liking as well. There’s no impact on the evolution of the platform other than user feedback and our own experiences and expertise.
 
@@ -44,7 +44,9 @@ Creating a fully functional platform like dyrector.io would be impossible withou
 
 ## Donate to us
 
-We’re launching our Open Collective, where you can sponsor the project with a few bucks once or recurringly, as much as you like. Give our sponsorship tiers a look **[here](https://opencollective.com/dyrectorio-platform)**.
+We’re launching our Open Collective, where you can sponsor the project with a few bucks once or recurringly, as much as you like.
+
+> Give our sponsorship tiers a look **[here](https://opencollective.com/dyrectorio-platform)**.
 
 Your donations will help us continue working on the project.
 
