@@ -1,7 +1,7 @@
 ---
-title: "Empower Innovation: Support The Development of dyrectorio"
+title: "Empower Innovation: Support The Development of dyrector.io"
 date: "2023-05-16"
-seoTitle: "Empower Innovation: Support The Development of dyrectorio | dyrector.io"
+seoTitle: "Support The Development of dyrector.io | dyrector.io"
 seoDescription: Sponsor the development of dyrector.io on Open Collective. 100% of your donations will be spent on the improvement of the platform.
 description: Sponsor the development of dyrector.io on Open Collective. 100% of your donations will be spent on the improvement of the platform.
 tags: ["Startup", "Platform", "Team"]
