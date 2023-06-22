@@ -5,7 +5,7 @@ seoTitle: "5 Reasons Why You Should Containerize | dyrector.io"
 seoDescription: Containerization saves a lot of time for engineers and lots of resources for organizations. Here's why you should containerize, too.
 description: Containerization saves a lot of time for engineers and lots of resources for organizations. Here's why you should containerize, too.
 tags: ["Containerization", "Docker"]
-cover: "./dyrectorio-why-containerize-header.jpg"
+cover: "./dyrectorio-why-containerize-cover.jpg"
 header: "./dyrectorio-why-containerize-header.png"
 coverAlt: Drawn picture of a container ship.
 headerAlt: Drawn picture of a container ship.
