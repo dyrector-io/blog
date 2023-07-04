@@ -4,7 +4,7 @@ date: "2023-07-05"
 seoTitle: "Setup WordPress on Free ARM Oracle VPS | dyrector.io"
 seoDescription: WordPress is one of the most popular CMSs in the world. Here's how you can host and create your WordPress website now on a free Oracle server.
 description: WordPress is one of the most popular CMSs in the world. Now you can host your WordPress website on Oracle's free ARM VPS. Check out the blog post now.
-tags: ["Containerization", "Docker"]
+tags: ["SelfHosting", "OpenSource", "Template"]
 cover: "./dyrector-io-setup-wordpress-on-free-oracle-vps-cover.png"
 header: "./dyrector-io-setup-wordpress-on-free-oracle-vps-header.png"
 coverAlt: Drawn picture of a person sitting in a bean bag chair with browser window next to them.
