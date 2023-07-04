@@ -50,7 +50,7 @@ Now that you have your VPS ready, you’re going to need Docker in order to be a
 
 You can access the VPS via Oracle’s Cloud Shell, or when you use Windows on your PC or laptop, you can install **[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**, which is a free and open-source SSH client. You’re going to use it to access the VPS using your private SSH key. To do that, first you’ll need to convert the .key file that you just downloaded to a .ppk that the client can work with.
 
-_**Note:** You can access your VPN from the terminal when you use MacOS or other Linux distros on your local machine._
+_**Note:** You can access your VPS from the terminal when you use MacOS or other Linux distros on your local machine._
 
 When PuTTY installation is complete, you’ll have PuTTYgen, too, which will be needed to convert the public key to a format the client can handle. You can do this by following the steps described **[here](https://docs.oracle.com/en/cloud/paas/goldengate-cloud/tutorial-change-private-key-format/)**.
 
@@ -164,7 +164,7 @@ Click on the gear icon next to WordPress's images to navigate to the configurati
 
 - `WORDPRESS_DB_PASSWORD` should be the same as `MYSQL_PASSWORD` for wordpress-mysql.
 
-- Configure `name`, `host` under Ingress section. `name` is the first part of the domain; `host` is the second. Example: if your domain is `wordpress.example.com`, then `name = wordpress`, `host = example.com`.
+- Configure `name`, `host` under Ingress section. `name` is the subdomain; `host` is the root. Example: if your domain is `wordpress.example.com`, then `name = wordpress`, `host = example.com`.
 
 - Configure `DOMAIN` under Environments section. Example: if your domain is `wordpress.example.com`, then `domain = https://vault.example.com`.
 
@@ -176,7 +176,7 @@ When you’ve got it configured, click _Back_ to head back to your WordPress sta
 
 ![](./dyrector-io-wordpress-free-oracle-arm-vps-04.png)
 
-Click _Deploy_ to setup WordPress.
+Click _Deploy_ to set up WordPress.
 
 ![](./dyrector-io-wordpress-free-oracle-arm-vps-05.png)
 
