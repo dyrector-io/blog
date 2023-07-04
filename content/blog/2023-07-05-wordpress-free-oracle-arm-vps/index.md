@@ -35,8 +35,8 @@ First of all, you’ll need to get the VPS. You can do so by signing up to Oracl
 
 Once you’re done signing up, you can set up your first VPS after navigating to the Instances page. The ARM option will be available in the _Image and shape_ section. When you pick the image, there’s a bunch of operating systems you can choose from, but we picked Ubuntu 22.04.
 
-> **Note:** Personally, I decided to go with Ubuntu because it has a lot of resources online and I assumed my teammates are mostly experienced with that OS out of all the available ones on Oracle. Eventually it turned out to be a good idea.
-You can pick any OS offered, the platform supports it, but some of the instructions below might not work, `apt install` for example.
+_**Note:** Personally, I decided to go with Ubuntu because it has a lot of resources online and I assumed my teammates are mostly experienced with that OS out of all the available ones on Oracle. Eventually it turned out to be a good idea.
+You can pick any OS offered, the platform supports it, but some of the instructions below might not work, `apt install` for example._
 
 The shape is where you can pick the free ARM chip, which is a 3.0 GHz **[Ampere Altra](https://www.oracle.com/cloud/compute/arm/)** with customizable OCPU and memory count. For the purpose of this blog post, I went with 1 OCPU and 6 GBs of RAM.
 
@@ -50,7 +50,7 @@ Now that you have your VPS ready, you’re going to need Docker in order to be a
 
 You can access the VPS via Oracle’s Cloud Shell, or when you use Windows on your PC or laptop, you can install **[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)**, which is a free and open-source SSH client. You’re going to use it to access the VPS using your private SSH key. To do that, first you’ll need to convert the .key file that you just downloaded to a .ppk that the client can work with.
 
-> **Note:** You can access your VPN from the terminal when you use MacOS or other Linux distros on your local machine.
+_**Note:** You can access your VPN from the terminal when you use MacOS or other Linux distros on your local machine._
 
 When PuTTY installation is complete, you’ll have PuTTYgen, too, which will be needed to convert the public key to a format the client can handle. You can do this by following the steps described **[here](https://docs.oracle.com/en/cloud/paas/goldengate-cloud/tutorial-change-private-key-format/)**.
 
@@ -74,7 +74,7 @@ iptables -I INPUT 6 -m state --state NEW -p tcp --dport 443 -j ACCEPT
 netfilter-persistent save
 ```
 
-> **Note:** The commands above will add new port rules to the VPS on the level of Ubuntu. It’s going to enable incoming requests. Treat this command like black magic: it’s something you should never do, only as a last resort option because it might expose your VPS to people with malicious intent unnecessarily.
+_**Note:** The commands above will add new port rules to the VPS on the level of Ubuntu. It’s going to enable incoming requests. Treat this command like black magic: it’s something you should never do, only as a last resort option because it might expose your VPS to people with malicious intent unnecessarily._
 
 ## Install Docker
 
