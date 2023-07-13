@@ -19,7 +19,7 @@ Both platforms make life easier for Docker and Kubernetes users but they’re fo
 
 Portainer identifies itself as a universal container management platform that doesn’t lock users into a single technology or vendor. dyrector.io establishes itself as an open-source continuous delivery platform.
 
-For the purpose of this blog post, we compared the free edition of both open-source platforms. Portainer offers a wide range of functionalities without limitations in their platform’s **[Community Edition (CE)](https://github.com/portainer/portainer)**, while packaging up some premium features in their Business Edition not available in CE. At the same time, self-managed **[dyrector.io](https://github.com/dyrector-io/dyrectorio)** comes with no restrictions, as all features are available without usage limits.
+For the purpose of this blog post, we compared the free edition of both open-source platforms. Portainer offers a wide range of functionalities without limitations in their platform’s **[Community Edition (CE)](https://github.com/portainer/portainer)**, while packaging up some premium features in their Business Edition not available in CE. At the same time, self-managed **[dyrector.io](https://github.com/dyrector-io/dyrectorio)** comes with no restrictions, as all features are 100% open-source.
 
 ## What’s Common Between the Two
 
