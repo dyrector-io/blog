@@ -95,6 +95,6 @@ In case you need to adjust some configuration variables, like exposing a port or
 
 ---
 
-_This blogpost was written by the team of [dyrector.io](https://dyrectorio.com). dyrector.io is an open-source container management platform._
+_This blogpost was written by the team of [dyrector.io](https://dyrectorio.com). dyrector.io is an open-source continuous delivery & deployment platform with version management._
 
 **Find the project on [GitHub](https://github.com/dyrector-io/dyrectorio/).**

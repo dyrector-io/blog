@@ -55,6 +55,6 @@ The obvious question at this point is whether you should go with **[Docker or Po
 
 ---
 
-_This blogpost was written by the team of [dyrector.io](https://dyrectorio.com). dyrector.io is an open-source container management platform._
+_This blogpost was written by the team of [dyrector.io](https://dyrectorio.com). dyrector.io is an open-source continuous delivery & deployment platform with version management._
 
 **Find the project on [GitHub](https://github.com/dyrector-io/dyrectorio/).**

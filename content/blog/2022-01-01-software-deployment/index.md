@@ -69,10 +69,7 @@ Software deployment is a critical point of development. Failures during the depl
 
 ---
 
-_This blogpost was written by the team of specialists at [dyrector.io](https://dyrector.io). dyrector.io is an open-source container management platform._
+_This blogpost was written by the team of [dyrector.io](https://dyrectorio.com). dyrector.io is an open-source continuous delivery & deployment platform with version management._
 
-**Find our project on [GitHub](https://github.com/dyrector-io/dyrectorio/). Read our [docs](https://docs.dyrector.io/) to learn more about our platform. Any contribution is welcome!**
+**Find the project on [GitHub](https://github.com/dyrector-io/dyrectorio/).**
 
-To stay updated about our product follow us on [Twitter](https://twitter.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
-
-Join our public [Discord](https://discord.gg/hMyT9cbYFD) server to discuss DevOps.

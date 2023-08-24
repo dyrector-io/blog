@@ -59,16 +59,16 @@ A very interesting situation was when one contributor went missing and another o
 
 Another thing we were aware of, but it was also fascinating to see happen is how some contributors take the absolute least effort to commit something. An example of that was when someone opened a PR for adding a period to a readme file. We did have a good chuckle when we witnessed it.
 
+## Starcount After Hacktoberfest
+
+We went open source in Summer 2022. Halfway through Hacktoberfest we passed 100 stars on our main repository on GitHub. It's fair to say that Hacktoberfest is a great way to bring attention to your open-source product. If you'd like to get a boost for stars on your repository, check out **[How To Get GitHub Stars](https://howtogetgithubstars.com/)**, a weekly newsletter for tricks and tips.
+
 ## Summary
 
 Hacktoberfest was an absolute banger for our community. We doubled the fans of the platform on GitHub and made some new friends. In fact, we enjoyed Hacktoberfest so much we’re considering ways to make long-term open-source incentives around the project in the future.
 
 ---
 
-_This blogpost was written by the team of specialists at [dyrector.io](https://dyrector.io). dyrector.io is an open-source container management platform._
+_This blogpost was written by the team of [dyrector.io](https://dyrectorio.com). dyrector.io is an open-source continuous delivery & deployment platform with version management._
 
-**Find our project on [GitHub](https://github.com/dyrector-io/dyrectorio/). Read our [docs](https://docs.dyrector.io/) to learn more about our platform. Any contribution is welcome!**
-
-To stay updated about our product follow us on [Twitter](https://twitter.com/dyrectorio), [Instagram](https://www.instagram.com/dyrectorio/) and [LinkedIn](https://www.linkedin.com/company/dyrectorio/).
-
-Join our public [Discord](https://discord.gg/hMyT9cbYFD) server to discuss DevOps.
+**Find the project on [GitHub](https://github.com/dyrector-io/dyrectorio/).**
