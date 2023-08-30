@@ -5,10 +5,10 @@ seoTitle: "How to Manage Identity & Authorization with Kratos | dyrector.io"
 seoDescription: Kratos is an open-source, API-first authorization tool. Here's how you can utilize it for your application to provide great user experience.
 description: Kratos is an open-source, API-first authorization tool. Here's how you can utilize it for your application to provide great user experience.
 tags: ["OpenSource", "Golang"]
-cover: "./dyrector-io-automate-deployments-github-actions.png"
-header: "./dyrector-io-continuous-delivey-github-actions.png"
-coverAlt: Drawn picture of a robot with various signs and a laptop around it.
-headerAlt: Header picture of a blog post titled How to Automate with GitHub Actions in CD platform category.
+cover: "./dyrector-io-identity-and-auth-with-kratos.png"
+header: "./dyrector-io-open-source-ory-kratos-auth.png"
+coverAlt: Drawn picture of a man waving with various signs around him to illustrate authentication.
+headerAlt: Header picture of a blog post titled Identity & Authorization Management with Kratos in Auth category.
 ---
 
 **Kratos is an API-first authentication tool written in Go. It offers the most common authentication capabilities, and also supports OAuth, which allows users to sign in with their social media accounts. Here’s how you can utilize Kratos.**
