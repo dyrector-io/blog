@@ -5,8 +5,8 @@ seoTitle: "It’s Not Worth to Launch on Product Hunt Anymore | dyrector.io"
 seoDescription: Product Hunt isn't the same as it used to be. But where else can you showcase your product?
 description: Product Hunt isn't the same as it used to be. But where else can you showcase your product?
 tags: ["OpenSource", "Golang"]
-cover: "./dyrector-io-identity-and-auth-with-kratos.png"
-header: "./dyrector-io-open-source-ory-kratos-auth.png"
+cover: "./dyrector-io-product-hunt-is-for-the-cool-kids-cover.png"
+header: "./dyrector-io-product-hunt-is-for-the-cool-kids-header.png"
 coverAlt: Drawn picture of a cat with Product Hunt written above it.
 headerAlt: Header picture of a blog post titled Product Hunt Is for the Cool Kids.
 ---
