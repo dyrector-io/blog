@@ -4,7 +4,7 @@ date: "2023-09-25"
 seoTitle: "It’s Not Worth to Launch on Product Hunt Anymore | dyrector.io"
 seoDescription: Product Hunt isn't the same as it used to be. But where else can you showcase your product?
 description: Product Hunt isn't the same as it used to be. But where else can you showcase your product?
-tags: ["OpenSource", "Golang"]
+tags: ["OpenSource", "Startup"]
 cover: "./dyrector-io-product-hunt-is-for-the-cool-kids-cover.png"
 header: "./dyrector-io-product-hunt-is-for-the-cool-kids-header.png"
 coverAlt: Drawn picture of a cat with Product Hunt written above it.
