@@ -1,7 +1,7 @@
 ---
 title: "Why You Should Self-Host GitHub Runners – Or Stay Away from It"
 date: "2023-11-08"
-seoTitle: "Easily accessible docker logs & inspect with darklens | dyrector.io"
+seoTitle: "Why You Should Self-Host GitHub Runners – Or Stay Away from It | dyrector.io"
 seoDescription: Optimize your CI/CD with our insights on self-hosted GitHub Runners. Discover speed, control, and setup tips for efficient development workflows.
 description: Turn GitHub Actions into the sidekick your project needs, not the sidekick it deserves by self-hosting runners. Find out how to decide if you need self-hosted GitHub runners and how to get started.
 tags: ["GitHub", "SelfHosted"]
